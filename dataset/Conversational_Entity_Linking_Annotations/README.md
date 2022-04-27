@@ -21,6 +21,7 @@ Conversational Entity Linking Annotations
 | PEM w/o EEM(*1)                        |      77 |    25 |     13 |
 | PEM total                              |     268 |    89 |     73 |
 
+(PEM: Personal Entity Mention, EEM: Explicit Entity Mention)  
 (*1) This annotations also contain PEM without corresponding EEM case (i.e., annotated as `not in dialogue`, cannot find from options, etc.)
 
 ## Data Format
