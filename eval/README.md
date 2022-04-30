@@ -20,4 +20,4 @@ Second, create run files. The data format should be like:
 ]
 ```
 
-Finally, evaluate use `eval.ipynb`. The detailed instructions are in the notebook.
+Finally, evaluate using `eval.ipynb`. The detailed instructions are in the notebook.
