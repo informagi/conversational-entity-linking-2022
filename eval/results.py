@@ -66,7 +66,7 @@ class Metrics():
             gold = self.gold_dc[dataset_type]
 
             # If mentions are not normalized, then they are normalized here
-            # NOTE: The mentions in the provided run files have already normalized
+            # NOTE: The mentions in the provided run files have already been normalized
             if not self.ments_already_normalized:
                 pred = [[document_id, turn_num, self.norm_ment(ment), ent] for document_id, turn_num, ment, ent in pred]
                 gold = [[document_id, turn_num, self.norm_ment(ment), ent] for document_id, turn_num, ment, ent in gold]
