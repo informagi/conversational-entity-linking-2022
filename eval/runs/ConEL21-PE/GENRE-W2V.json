@@ -9,13 +9,7 @@
         "1191",
         5,
         "my passion",
-        "Rod_Stewart"
-    ],
-    [
-        "1191",
-        5,
-        "my passion",
-        "Music"
+        "Hard_rock"
     ],
     [
         "1191",
@@ -27,19 +21,25 @@
         "1191",
         5,
         "my passion",
-        "Hard_rock"
+        "Iggy_Pop"
+    ],
+    [
+        "1191",
+        5,
+        "my passion",
+        "Music"
+    ],
+    [
+        "1191",
+        5,
+        "my passion",
+        "Rod_Stewart"
     ],
     [
         "1191",
         5,
         "my passion",
         "Old-school_hip_hop"
-    ],
-    [
-        "1191",
-        5,
-        "my passion",
-        "Iggy_Pop"
     ],
     [
         "17985",
@@ -56,13 +56,13 @@
     [
         "16840",
         4,
-        "my own passion",
+        "my thoughts",
         "Hawaii"
     ],
     [
         "16840",
         4,
-        "my thoughts",
+        "my own passion",
         "Hawaii"
     ],
     [
@@ -80,13 +80,7 @@
     [
         "2573",
         1,
-        "my favorite",
-        "Vanilla"
-    ],
-    [
-        "2573",
-        1,
-        "my favorite",
+        "my second choice",
         "Strawberry"
     ],
     [
@@ -98,8 +92,14 @@
     [
         "2573",
         1,
-        "my second choice",
+        "my favorite",
         "Strawberry"
+    ],
+    [
+        "2573",
+        1,
+        "my favorite",
+        "Vanilla"
     ],
     [
         "13604",
@@ -117,19 +117,19 @@
         "16339",
         2,
         "My favorite team",
-        "New_England"
+        "New_England_Patriots"
     ],
     [
         "16339",
         2,
         "My favorite team",
-        "New_England_Patriots"
+        "New_England"
     ],
     [
         "16339",
         4,
         "my favorite team",
-        "New_England"
+        "New_England_Patriots"
     ],
     [
         "16339",
@@ -141,13 +141,13 @@
         "16339",
         4,
         "my favorite team",
-        "Miami_Dolphins"
+        "New_England"
     ],
     [
         "16339",
         4,
         "my favorite team",
-        "New_England_Patriots"
+        "Miami_Dolphins"
     ],
     [
         "17006",
@@ -177,13 +177,13 @@
         "12407",
         5,
         "my favorite fish",
-        "Salmon"
+        "Right-wing_politics"
     ],
     [
         "12407",
         5,
         "my favorite fish",
-        "Right-wing_politics"
+        "Salmon"
     ],
     [
         "8214",
@@ -201,13 +201,13 @@
         "2040",
         0,
         "my best friend",
-        "It_(novel)"
+        "Beagle"
     ],
     [
         "2040",
         0,
         "my best friend",
-        "Beagle"
+        "It_(novel)"
     ],
     [
         "10060",

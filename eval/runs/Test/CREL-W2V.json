@@ -75,6 +75,12 @@
         "6869",
         8,
         "my favorite piano player",
+        "String_section"
+    ],
+    [
+        "6869",
+        8,
+        "my favorite piano player",
         "Electronic_keyboard"
     ],
     [
@@ -82,12 +88,6 @@
         8,
         "my favorite piano player",
         "Key_(music)"
-    ],
-    [
-        "6869",
-        8,
-        "my favorite piano player",
-        "String_section"
     ],
     [
         "6949",
@@ -141,18 +141,12 @@
         "8415",
         0,
         "My mom",
-        "Cancer"
+        "Cancer_survivor"
     ],
     [
         "8415",
         0,
         "My mom",
-        "Cancer_survivor"
-    ],
-    [
-        "8415",
-        6,
-        "my mother",
         "Cancer"
     ],
     [
@@ -160,6 +154,12 @@
         6,
         "my mother",
         "Cancer_survivor"
+    ],
+    [
+        "8415",
+        6,
+        "my mother",
+        "Cancer"
     ],
     [
         "8670",
@@ -171,13 +171,13 @@
         "8670",
         2,
         "my favorite yoga",
-        "Hatha_yoga"
+        "Bikram_Yoga"
     ],
     [
         "8670",
         2,
         "my favorite yoga",
-        "Bikram_Yoga"
+        "Hatha_yoga"
     ],
     [
         "8670",
@@ -189,13 +189,13 @@
         "8670",
         2,
         "my favorite yoga",
-        "Yoga"
+        "Gym"
     ],
     [
         "8670",
         2,
         "my favorite yoga",
-        "Gym"
+        "Yoga"
     ],
     [
         "9898",
@@ -255,25 +255,25 @@
         "16678",
         5,
         "My choir",
-        "Soprano"
+        "Bass_guitar"
     ],
     [
         "16678",
         5,
         "My choir",
-        "Bass_guitar"
-    ],
-    [
-        "17754",
-        2,
-        "My favorite online game",
-        "Online_game"
+        "Soprano"
     ],
     [
         "17754",
         2,
         "My favorite online game",
         "World_of_Warcraft"
+    ],
+    [
+        "17754",
+        2,
+        "My favorite online game",
+        "Online_game"
     ],
     [
         "18415",
@@ -291,13 +291,13 @@
         "18972",
         6,
         "my favorite breeds",
-        "Pit_bull"
+        "Dog"
     ],
     [
         "18972",
         6,
         "my favorite breeds",
-        "Dog"
+        "Pit_bull"
     ],
     [
         "19684",
@@ -339,7 +339,7 @@
         "21099",
         6,
         "my favorite song",
-        "Fade_to_Black_(song)"
+        "Hello"
     ],
     [
         "21099",
@@ -351,7 +351,7 @@
         "21099",
         6,
         "my favorite song",
-        "Hello"
+        "Fade_to_Black_(song)"
     ],
     [
         "22038",

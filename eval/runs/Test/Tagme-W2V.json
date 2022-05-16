@@ -51,25 +51,25 @@
         "2478",
         4,
         "my absolute favorite",
-        "Cartoon_Network_(Latin_America)"
+        "Simon_&amp;_Garfunkel"
     ],
     [
         "2478",
         4,
         "my absolute favorite",
-        "Simon_&amp;_Garfunkel"
-    ],
-    [
-        "3170",
-        9,
-        "my guesses",
-        "LOL!_(program)"
+        "Cartoon_Network_(Latin_America)"
     ],
     [
         "3170",
         9,
         "my guesses",
         "Football"
+    ],
+    [
+        "3170",
+        9,
+        "my guesses",
+        "LOL!_(program)"
     ],
     [
         "4945",
@@ -105,13 +105,13 @@
         "5986",
         2,
         "my car",
-        "Saving"
+        "Money"
     ],
     [
         "5986",
         2,
         "my car",
-        "Money"
+        "Saving"
     ],
     [
         "6340",
@@ -129,7 +129,7 @@
         "6869",
         8,
         "my favorite piano player",
-        "String_instrument"
+        "88-Keys"
     ],
     [
         "6869",
@@ -141,19 +141,7 @@
         "6869",
         8,
         "my favorite piano player",
-        "Electronic_keyboard"
-    ],
-    [
-        "6869",
-        8,
-        "my favorite piano player",
         "Sound"
-    ],
-    [
-        "6869",
-        8,
-        "my favorite piano player",
-        "88-Keys"
     ],
     [
         "6869",
@@ -165,7 +153,19 @@
         "6869",
         8,
         "my favorite piano player",
+        "String_instrument"
+    ],
+    [
+        "6869",
+        8,
+        "my favorite piano player",
         "Semantics"
+    ],
+    [
+        "6869",
+        8,
+        "my favorite piano player",
+        "Electronic_keyboard"
     ],
     [
         "6949",
@@ -189,13 +189,13 @@
         "7500",
         2,
         "My favorite electronic dance music artist",
-        "Electronic_dance_music"
+        "How_About_You?"
     ],
     [
         "7500",
         2,
         "My favorite electronic dance music artist",
-        "How_About_You?"
+        "Electronic_dance_music"
     ],
     [
         "8203",
@@ -213,12 +213,6 @@
         "8415",
         6,
         "my mother",
-        "Someday_(2011_film)"
-    ],
-    [
-        "8415",
-        6,
-        "my mother",
         "Cure_(film)"
     ],
     [
@@ -226,6 +220,12 @@
         6,
         "my mother",
         "Chemotherapy"
+    ],
+    [
+        "8415",
+        6,
+        "my mother",
+        "Someday_(2011_film)"
     ],
     [
         "8415",
@@ -267,13 +267,13 @@
         "8888",
         0,
         "my first crop",
-        "Harvest"
+        "Carrot"
     ],
     [
         "8888",
         0,
         "my first crop",
-        "Carrot"
+        "Harvest"
     ],
     [
         "9898",
@@ -285,25 +285,25 @@
         "9898",
         8,
         "my heart",
-        "Something_(Beatles_song)"
-    ],
-    [
-        "9898",
-        8,
-        "my heart",
         "Right_There_(Nicole_Scherzinger_song)"
     ],
     [
         "9898",
         8,
         "my heart",
-        "Pet_Sematary"
+        "Something_(Beatles_song)"
     ],
     [
         "9898",
         8,
         "my heart",
         "People_(magazine)"
+    ],
+    [
+        "9898",
+        8,
+        "my heart",
+        "Pet_Sematary"
     ],
     [
         "11216",
@@ -321,13 +321,13 @@
         "11384",
         6,
         "my favorites",
-        "1980s_in_music"
+        "Yes_(band)"
     ],
     [
         "11384",
         6,
         "my favorites",
-        "Anthrax_(American_band)"
+        "1980s_in_music"
     ],
     [
         "11384",
@@ -345,18 +345,12 @@
         "11384",
         6,
         "my favorites",
-        "Yes_(band)"
+        "Anthrax_(American_band)"
     ],
     [
         "13086",
         0,
         "my favorite cheetos",
-        "Cheetos"
-    ],
-    [
-        "13086",
-        6,
-        "my husband the other night",
         "Cheetos"
     ],
     [
@@ -370,6 +364,12 @@
         6,
         "my husband the other night",
         "Burger_King"
+    ],
+    [
+        "13086",
+        6,
+        "my husband the other night",
+        "Cheetos"
     ],
     [
         "13086",
@@ -393,18 +393,6 @@
         "14373",
         7,
         "My family vehicle",
-        "Chevrolet_Tahoe"
-    ],
-    [
-        "14373",
-        7,
-        "My family vehicle",
-        "Do_You_(Ne-Yo_song)"
-    ],
-    [
-        "14373",
-        7,
-        "My family vehicle",
         "For_You_(Utada_Hikaru_song)"
     ],
     [
@@ -412,6 +400,18 @@
         7,
         "My family vehicle",
         "Michigan"
+    ],
+    [
+        "14373",
+        7,
+        "My family vehicle",
+        "Chevrolet_Tahoe"
+    ],
+    [
+        "14373",
+        7,
+        "My family vehicle",
+        "Do_You_(Ne-Yo_song)"
     ],
     [
         "14767",
@@ -429,13 +429,13 @@
         "16678",
         5,
         "My choir",
-        "Song_of_Songs"
+        "Bass_(voice_type)"
     ],
     [
         "16678",
         5,
         "My choir",
-        "Bass_(voice_type)"
+        "Song_of_Songs"
     ],
     [
         "17320",
@@ -471,6 +471,12 @@
         "19386",
         4,
         "My favourite",
+        "Cabbage"
+    ],
+    [
+        "19386",
+        4,
+        "My favourite",
         "Carrot"
     ],
     [
@@ -478,12 +484,6 @@
         4,
         "My favourite",
         "I_Love_to_Eat"
-    ],
-    [
-        "19386",
-        4,
-        "My favourite",
-        "Cabbage"
     ],
     [
         "19684",
@@ -543,25 +543,13 @@
         "21325",
         8,
         "my favorites",
-        "Halloween"
+        "Halloween_(franchise)"
     ],
     [
         "21325",
         8,
         "my favorites",
-        "Halloween_(franchise)"
-    ],
-    [
-        "22038",
-        0,
-        "my favorite bands",
-        "The_Who"
-    ],
-    [
-        "22038",
-        0,
-        "my favorite bands",
-        "How_About_You_(Staind_song)"
+        "Halloween"
     ],
     [
         "22038",
@@ -571,8 +559,14 @@
     ],
     [
         "22038",
-        2,
-        "my absolute",
+        0,
+        "my favorite bands",
+        "How_About_You_(Staind_song)"
+    ],
+    [
+        "22038",
+        0,
+        "my favorite bands",
         "The_Who"
     ],
     [
@@ -582,16 +576,10 @@
         "How_About_You_(Staind_song)"
     ],
     [
-        "22282",
-        4,
-        "My favorite",
-        "Adoration"
-    ],
-    [
-        "22282",
-        4,
-        "My favorite",
-        "Dream"
+        "22038",
+        2,
+        "my absolute",
+        "The_Who"
     ],
     [
         "22282",
@@ -603,30 +591,18 @@
         "22282",
         4,
         "My favorite",
-        "Harry_Potter"
-    ],
-    [
-        "22282",
-        6,
-        "my favorite",
-        "Severus_Snape"
-    ],
-    [
-        "22282",
-        6,
-        "my favorite",
-        "Harry_Potter"
-    ],
-    [
-        "22282",
-        6,
-        "my favorite",
         "Adoration"
     ],
     [
         "22282",
-        6,
-        "my favorite",
+        4,
+        "My favorite",
+        "Harry_Potter"
+    ],
+    [
+        "22282",
+        4,
+        "My favorite",
         "Dream"
     ],
     [
@@ -634,6 +610,30 @@
         6,
         "my favorite",
         "Albus_Dumbledore"
+    ],
+    [
+        "22282",
+        6,
+        "my favorite",
+        "Harry_Potter"
+    ],
+    [
+        "22282",
+        6,
+        "my favorite",
+        "Adoration"
+    ],
+    [
+        "22282",
+        6,
+        "my favorite",
+        "Dream"
+    ],
+    [
+        "22282",
+        6,
+        "my favorite",
+        "Severus_Snape"
     ],
     [
         "510",
@@ -2456,7 +2456,7 @@
     [
         "22282",
         4,
-        "deathly hallows",
+        "the deathly hallows",
         "Magical_objects_in_Harry_Potter"
     ],
     [

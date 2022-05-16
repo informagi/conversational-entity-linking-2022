@@ -93,7 +93,7 @@
         "16339",
         2,
         "My favorite team",
-        "Sport"
+        "New_England_Patriots"
     ],
     [
         "16339",
@@ -105,12 +105,6 @@
         "16339",
         2,
         "My favorite team",
-        "New_England_Patriots"
-    ],
-    [
-        "16339",
-        4,
-        "my favorite team",
         "Sport"
     ],
     [
@@ -118,6 +112,12 @@
         4,
         "my favorite team",
         "Dan_Marino"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
+        "American_Pastime_(film)"
     ],
     [
         "16339",
@@ -135,7 +135,7 @@
         "16339",
         4,
         "my favorite team",
-        "American_Pastime_(film)"
+        "Sport"
     ],
     [
         "1168",
@@ -159,6 +159,12 @@
         "12407",
         5,
         "my favorite fish",
+        "Salmon"
+    ],
+    [
+        "12407",
+        5,
+        "my favorite fish",
         "Bait_(luring_substance)"
     ],
     [
@@ -168,22 +174,10 @@
         "Catfish"
     ],
     [
-        "12407",
-        5,
-        "my favorite fish",
-        "Salmon"
-    ],
-    [
         "8214",
         0,
         "My fav band",
         "Pearl_Jam"
-    ],
-    [
-        "7051",
-        8,
-        "my favorite character",
-        "Stewie_Griffin"
     ],
     [
         "7051",
@@ -204,6 +198,12 @@
         "TBS_(U.S._TV_channel)"
     ],
     [
+        "7051",
+        8,
+        "my favorite character",
+        "Stewie_Griffin"
+    ],
+    [
         "1266",
         0,
         "my favorite food",
@@ -213,13 +213,13 @@
         "1266",
         6,
         "my second favorite type of burger meat",
-        "Hamburger"
+        "Food"
     ],
     [
         "1266",
         6,
         "my second favorite type of burger meat",
-        "Food"
+        "Hamburger"
     ],
     [
         "1266",

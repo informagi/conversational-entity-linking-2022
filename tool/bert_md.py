@@ -25,9 +25,10 @@ class BERT_MD():
 
         Args:
             s: input string
-            debug: debug mode
+            flag_warning: if True, print warning message
 
-        Returns: REL style annotation results: [(start_position, length, mention), ...]
+        Returns:
+            REL style annotation results: [(start_position, length, mention), ...]
             E.g., [[0, 15, 'The Netherlands'], ...]
         """
 

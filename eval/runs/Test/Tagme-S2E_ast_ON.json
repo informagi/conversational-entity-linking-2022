@@ -12,40 +12,34 @@
         "Black_Forest"
     ],
     [
-        "646",
-        0,
-        "My favourite type of cake",
-        "Chocolate_cake"
-    ],
-    [
         "936",
         0,
         "my little dog",
         "Pug"
     ],
     [
-        "978",
-        0,
-        "my favorite book",
-        "Bible"
+        "1889",
+        4,
+        "My Favorite Martian",
+        "My_Favorite_Martian"
     ],
     [
         "2478",
         4,
         "my absolute favorite",
-        "Tom_and_Jerry"
-    ],
-    [
-        "2947",
-        6,
-        "My favorite",
-        "Pizza"
+        "Simon_&amp;_Garfunkel"
     ],
     [
         "4945",
         0,
         "my fave",
         "Mountain_Dew"
+    ],
+    [
+        "5096",
+        5,
+        "our planet",
+        "Earth"
     ],
     [
         "5151",
@@ -57,19 +51,13 @@
         "6340",
         0,
         "my favorite movies",
-        "Titanic_(1997_film)"
+        "Titanic_(musical)"
     ],
     [
         "6465",
         0,
         "My favourite colour",
         "Blue"
-    ],
-    [
-        "6869",
-        8,
-        "my favorite piano player",
-        "Joplin,_Missouri"
     ],
     [
         "6949",
@@ -84,30 +72,6 @@
         "The_Chemical_Brothers"
     ],
     [
-        "8203",
-        0,
-        "My friend's favorite band",
-        "One_Direction"
-    ],
-    [
-        "8347",
-        4,
-        "my favorite breeds",
-        "Boxing"
-    ],
-    [
-        "8347",
-        4,
-        "my favorite breeds",
-        "Boxer_(dog)"
-    ],
-    [
-        "8415",
-        0,
-        "My mom",
-        "Cancer_survivor"
-    ],
-    [
         "8534",
         0,
         "my favorites",
@@ -117,19 +81,19 @@
         "8670",
         2,
         "my favorite yoga",
-        "Bikram_Yoga"
+        "Hot_yoga"
+    ],
+    [
+        "8888",
+        0,
+        "my first crop",
+        "Carrot"
     ],
     [
         "9898",
         0,
         "my favorite shows",
         "Star_Trek"
-    ],
-    [
-        "10947",
-        0,
-        "my stress reliever",
-        "Singing"
     ],
     [
         "11216",
@@ -141,19 +105,19 @@
         "11384",
         6,
         "my favorites",
-        "Anthrax"
+        "Heavy_metal_music"
+    ],
+    [
+        "11384",
+        6,
+        "my favorites",
+        "Anthrax_(American_band)"
     ],
     [
         "11384",
         6,
         "my favorites",
         "Korn"
-    ],
-    [
-        "11384",
-        6,
-        "my favorites",
-        "Heavy_metal_music"
     ],
     [
         "13086",
@@ -165,13 +129,7 @@
         "13086",
         8,
         "my new best friend",
-        "Cheetos"
-    ],
-    [
-        "13669",
-        5,
-        "My favorite game",
-        "Diablo_(video_game)"
+        "My_New_Best_Friend"
     ],
     [
         "14373",
@@ -183,7 +141,7 @@
         "14767",
         0,
         "my favorite band",
-        "2008_Florida_Democratic_primary"
+        "The_Story_So_Far_(band)"
     ],
     [
         "14935",
@@ -231,7 +189,7 @@
         "19386",
         4,
         "My favourite",
-        "Sambar_deer"
+        "Sambar_(dish)"
     ],
     [
         "19398",
@@ -244,18 +202,6 @@
         0,
         "my dream car",
         "Ferrari"
-    ],
-    [
-        "20223",
-        1,
-        "my favorite",
-        "Capellini"
-    ],
-    [
-        "20223",
-        1,
-        "my favorite",
-        "Pasta"
     ],
     [
         "20284",
@@ -273,19 +219,7 @@
         "20950",
         0,
         "my dolls",
-        "My_Little_Pony"
-    ],
-    [
-        "20950",
-        0,
-        "My Little Pony",
-        "My_Little_Pony"
-    ],
-    [
-        "21007",
-        1,
-        "my favorites",
-        "Bacon"
+        "My_Little_Pony:_Friendship_Is_Magic"
     ],
     [
         "21099",
@@ -314,14 +248,14 @@
     [
         "510",
         8,
-        "LOL",
-        "LOL"
+        "d date",
+        "D-Date"
     ],
     [
-        "646",
-        0,
-        "cake",
-        "Cake"
+        "510",
+        8,
+        "LOL",
+        "LOL"
     ],
     [
         "646",
@@ -331,33 +265,9 @@
     ],
     [
         "646",
-        0,
-        "chocolate cake",
-        "Chocolate_cake"
-    ],
-    [
-        "646",
-        2,
-        "cake",
-        "Cake"
-    ],
-    [
-        "646",
         4,
         "family",
-        "Family_(biology)"
-    ],
-    [
-        "646",
-        4,
-        "dinner",
-        "Dinner"
-    ],
-    [
-        "646",
-        4,
-        "cake",
-        "Cake"
+        "Family"
     ],
     [
         "646",
@@ -368,7 +278,7 @@
     [
         "646",
         6,
-        "chocolate shavings",
+        "chocolate",
         "Chocolate"
     ],
     [
@@ -376,6 +286,12 @@
         6,
         "whipped cream",
         "Whipped_cream"
+    ],
+    [
+        "936",
+        0,
+        "Man I love",
+        "The_Man_I_Love_(song)"
     ],
     [
         "936",
@@ -398,20 +314,14 @@
     [
         "936",
         2,
-        "mischief",
-        "Mischief"
+        "but not",
+        "For_but_not_with"
     ],
     [
         "936",
-        4,
-        "chewing",
-        "Chewing"
-    ],
-    [
-        "936",
-        4,
-        "house-",
-        "House_music"
+        6,
+        "but not",
+        "For_but_not_with"
     ],
     [
         "936",
@@ -420,70 +330,28 @@
         "Conformation_show"
     ],
     [
-        "936",
-        8,
-        "obstacles",
-        "Obstacle_course"
-    ],
-    [
-        "978",
-        0,
-        "book",
-        "Book"
-    ],
-    [
-        "978",
-        0,
-        "Bible",
-        "Bible"
-    ],
-    [
         "978",
         2,
         "good book",
-        "Noble_House"
-    ],
-    [
-        "978",
-        2,
-        "civilizations",
-        "Civilization"
-    ],
-    [
-        "978",
-        4,
-        "interpretation",
-        "Interpretation_(logic)"
+        "Bible"
     ],
     [
         "978",
         6,
         "Apocrypha",
-        "Biblical_apocrypha"
+        "Apocrypha"
     ],
     [
         "978",
         8,
-        "denominations",
-        "Christian_denomination"
+        "Christian",
+        "Christianity"
     ],
     [
         "978",
         8,
         "Christian faith",
         "Christianity"
-    ],
-    [
-        "1780",
-        0,
-        "Marathon",
-        "Marathon"
-    ],
-    [
-        "1780",
-        0,
-        "advice",
-        "Advice_column"
     ],
     [
         "1780",
@@ -494,8 +362,14 @@
     [
         "1780",
         4,
-        "people",
-        "People"
+        "born to run",
+        "Born_to_Run"
+    ],
+    [
+        "1780",
+        6,
+        "Iron Man",
+        "Iron_Man"
     ],
     [
         "1780",
@@ -511,21 +385,15 @@
     ],
     [
         "1889",
-        0,
-        "space",
-        "Space"
+        4,
+        "kid I",
+        "The_Kid_&amp;_I"
     ],
     [
         "1889",
         4,
-        "kid",
-        "Goat_meat"
-    ],
-    [
-        "1889",
-        4,
-        "Martians",
-        "Martian"
+        "tv show",
+        "The_Care_Bears_(TV_series)"
     ],
     [
         "1889",
@@ -535,99 +403,51 @@
     ],
     [
         "1889",
-        6,
-        "extraterrestrials",
-        "Extraterrestrial_life"
-    ],
-    [
-        "1889",
-        6,
-        "Area 51",
-        "Area_51"
-    ],
-    [
-        "1889",
-        6,
-        "conspiracy",
-        "Conspiracy_(criminal)"
+        8,
+        "UFO",
+        "UFO_(band)"
     ],
     [
         "1889",
         8,
-        "UFO",
-        "Unidentified_flying_object"
+        "time",
+        "Time_signature"
     ],
     [
         "2478",
         0,
-        "cartoons",
-        "Cartoon"
+        "Cartoon Network",
+        "Cartoon_Network_(Australia_and_New_Zealand)"
     ],
     [
         "2478",
-        0,
+        2,
         "Cartoon Network",
         "Cartoon_Network"
     ],
     [
         "2478",
         2,
-        "1992",
-        "1992"
+        "Network show",
+        "Television_network"
     ],
     [
         "2478",
         4,
         "Tom and Jerry",
-        "Tom_and_Jerry"
+        "Simon_&amp;_Garfunkel"
     ],
     [
         "2478",
         4,
         "Cartoon Network",
-        "Cartoon_Network"
-    ],
-    [
-        "2478",
-        6,
-        "US",
-        "United_States"
-    ],
-    [
-        "2947",
-        0,
-        "pizza",
-        "Pizza"
-    ],
-    [
-        "2947",
-        2,
-        "pizza",
-        "Pizza"
-    ],
-    [
-        "2947",
-        6,
-        "bread",
-        "Bread"
-    ],
-    [
-        "2947",
-        6,
-        "cheese",
-        "Cheese"
+        "Cartoon_Network_(Latin_America)"
     ],
     [
         "2947",
         8,
         "pineapple",
         "Pineapple"
-    ],
-    [
-        "3170",
-        1,
-        "high school football",
-        "High_school_football"
     ],
     [
         "3170",
@@ -639,7 +459,7 @@
         "3170",
         3,
         "football",
-        "Association_football"
+        "Football"
     ],
     [
         "3170",
@@ -649,39 +469,27 @@
     ],
     [
         "3170",
-        5,
-        "players",
-        "Player_(game)"
-    ],
-    [
-        "3170",
-        5,
-        "team",
-        "Team"
-    ],
-    [
-        "3170",
         7,
-        "NCAA rules",
+        "NCAA",
         "National_Collegiate_Athletic_Association"
     ],
     [
         "3170",
         9,
-        "Texas",
-        "Texas"
+        "lol",
+        "LOL!_(program)"
     ],
     [
         "3170",
         9,
-        "lol",
-        "LOL"
+        "Canadian",
+        "Canada"
     ],
     [
         "3170",
         9,
         "football",
-        "Association_football"
+        "Football"
     ],
     [
         "3490",
@@ -694,6 +502,18 @@
         1,
         "Black Sabbath",
         "Black_Sabbath"
+    ],
+    [
+        "3490",
+        1,
+        "How about you",
+        "How_About_You?"
+    ],
+    [
+        "3490",
+        3,
+        "blues",
+        "Blues"
     ],
     [
         "3490",
@@ -717,19 +537,13 @@
         "4266",
         0,
         "country music",
-        "Hot_Country_Songs"
-    ],
-    [
-        "4266",
-        0,
-        "ideas",
-        "Idea"
+        "Country_music"
     ],
     [
         "4266",
         2,
-        "sense",
-        "Sense"
+        "big country",
+        "Big_Country"
     ],
     [
         "4266",
@@ -742,6 +556,12 @@
         4,
         "country music",
         "Country_music"
+    ],
+    [
+        "4266",
+        4,
+        "hits",
+        "Record_chart"
     ],
     [
         "4266",
@@ -756,6 +576,24 @@
         "Country_music"
     ],
     [
+        "4266",
+        8,
+        "bet",
+        "BET"
+    ],
+    [
+        "4266",
+        8,
+        "people",
+        "People_(magazine)"
+    ],
+    [
+        "4266",
+        8,
+        "ll dip",
+        "Common_Professional_Examination"
+    ],
+    [
         "4945",
         0,
         "Mountain Dew",
@@ -763,15 +601,9 @@
     ],
     [
         "4945",
-        2,
-        "dew",
-        "Dew"
-    ],
-    [
-        "4945",
-        2,
-        "Pepsi",
-        "Pepsi"
+        0,
+        "drink it",
+        "Drink_on_It"
     ],
     [
         "4945",
@@ -781,69 +613,45 @@
     ],
     [
         "4945",
-        4,
-        "label",
-        "Record_label"
+        2,
+        "Do you know",
+        "Do_You_Know?_(The_Ping_Pong_Song)"
+    ],
+    [
+        "4945",
+        2,
+        "you know what",
+        "You_Know_What"
     ],
     [
         "4945",
         4,
-        "brominated",
-        "Bromine"
-    ],
-    [
-        "4945",
-        4,
-        "vegetable oil",
-        "Vegetable_oil"
+        "brominated vegetable oil",
+        "Brominated_vegetable_oil"
     ],
     [
         "4945",
         6,
-        "cans",
-        "Drink_can"
+        "Oh ok",
+        "Oh-OK"
     ],
     [
         "4990",
         0,
-        "Pizza",
-        "Pizza"
+        "my all",
+        "My_All"
     ],
     [
         "4990",
         0,
-        "foods",
-        "Food"
-    ],
-    [
-        "4990",
-        2,
-        "pizza",
-        "Pizza"
+        "time",
+        "Time_signature"
     ],
     [
         "4990",
         4,
-        "cheese",
-        "Cheese"
-    ],
-    [
-        "4990",
-        4,
-        "pizza",
-        "Pizza"
-    ],
-    [
-        "4990",
-        4,
-        "lactose",
-        "Lactose"
-    ],
-    [
-        "5096",
-        1,
-        "cruise",
-        "Cruise_ship"
+        "lactose intolerant",
+        "Lactose_intolerance"
     ],
     [
         "5096",
@@ -859,27 +667,21 @@
     ],
     [
         "5096",
-        3,
-        "waves",
-        "Wave"
-    ],
-    [
-        "5096",
-        3,
-        "silence",
-        "Silence"
-    ],
-    [
-        "5096",
-        3,
-        "weather",
-        "Weather"
+        5,
+        "planet",
+        "Earth"
     ],
     [
         "5096",
         5,
-        "Oceans",
-        "Ocean"
+        "Earth",
+        "Earth"
+    ],
+    [
+        "5096",
+        5,
+        "blue planet",
+        "The_Blue_Planet"
     ],
     [
         "5151",
@@ -909,25 +711,31 @@
         "5151",
         2,
         "sunflowers",
-        "Helianthus_annuus"
+        "Helianthus"
     ],
     [
         "5151",
         4,
-        "art",
-        "Art"
+        "bet",
+        "BET"
     ],
     [
         "5151",
-        6,
-        "yellow",
-        "Yellow"
+        4,
+        "beautiful",
+        "Beautiful_(Mariah_Carey_song)"
+    ],
+    [
+        "5151",
+        4,
+        "Do you",
+        "Do_You..._(Miguel_song)"
     ],
     [
         "5151",
         6,
         "sunflower",
-        "Helianthus_annuus"
+        "Helianthus"
     ],
     [
         "5986",
@@ -938,32 +746,20 @@
     [
         "5986",
         2,
-        "gas",
-        "Gas"
+        "save",
+        "Saving"
+    ],
+    [
+        "5986",
+        2,
+        "money",
+        "Money"
     ],
     [
         "6340",
         0,
         "Titanic",
-        "Titanic_(1997_film)"
-    ],
-    [
-        "6340",
-        0,
-        "movies",
-        "Film"
-    ],
-    [
-        "6340",
-        2,
-        "romance",
-        "Romance_novel"
-    ],
-    [
-        "6340",
-        4,
-        "adventure",
-        "Adventure_film"
+        "Titanic_(musical)"
     ],
     [
         "6465",
@@ -980,6 +776,12 @@
     [
         "6465",
         4,
+        "colour mixing",
+        "Color_mixing"
+    ],
+    [
+        "6465",
+        4,
         "peacock",
         "Peafowl"
     ],
@@ -992,14 +794,14 @@
     [
         "6869",
         0,
-        "child",
-        "Child"
+        "middle C",
+        "C_(musical_note)"
     ],
     [
         "6869",
         2,
         "strings",
-        "String_section"
+        "String_instrument"
     ],
     [
         "6869",
@@ -1010,14 +812,14 @@
     [
         "6869",
         4,
-        "keys",
-        "Key_(music)"
+        "88  keys",
+        "88-Keys"
     ],
     [
         "6869",
         4,
         "string",
-        "String_(computer_science)"
+        "String_instrument"
     ],
     [
         "6869",
@@ -1028,26 +830,32 @@
     [
         "6869",
         6,
-        "electronic keyboards",
+        "Acoustic",
+        "Sound"
+    ],
+    [
+        "6869",
+        6,
+        "meaning",
+        "Semantics"
+    ],
+    [
+        "6869",
+        6,
+        "keyboards",
         "Electronic_keyboard"
     ],
     [
         "6869",
         8,
-        "sense",
-        "Euclidean_vector"
+        "piano",
+        "Piano"
     ],
     [
-        "6869",
-        8,
-        "Joplin",
-        "Joplin,_Missouri"
-    ],
-    [
-        "6869",
-        8,
-        "piano player",
-        "Pianist"
+        "6949",
+        0,
+        "love",
+        "LOVE_(magazine)"
     ],
     [
         "6949",
@@ -1056,46 +864,10 @@
         "Donna_Karan"
     ],
     [
-        "6949",
-        0,
-        "brand",
-        "Brand"
-    ],
-    [
-        "6949",
-        0,
-        "clothing",
-        "Clothing"
-    ],
-    [
-        "6949",
-        2,
-        "handbags",
-        "Handbag"
-    ],
-    [
-        "6949",
-        4,
-        "designer",
-        "Designer"
-    ],
-    [
-        "6949",
-        8,
-        "clothing",
-        "Clothing"
-    ],
-    [
         "7405",
         0,
         "sushi",
         "Sushi"
-    ],
-    [
-        "7405",
-        0,
-        "dish",
-        "Dish_(food)"
     ],
     [
         "7405",
@@ -1111,12 +883,6 @@
     ],
     [
         "7405",
-        2,
-        "sus",
-        "Suspended_chord"
-    ],
-    [
-        "7405",
         4,
         "seafood",
         "Seafood"
@@ -1129,24 +895,6 @@
     ],
     [
         "7405",
-        4,
-        "cucumbers",
-        "Cucumber"
-    ],
-    [
-        "7405",
-        6,
-        "Pickled ginger",
-        "Gari_(ginger)"
-    ],
-    [
-        "7405",
-        6,
-        "flavor",
-        "Flavor"
-    ],
-    [
-        "7405",
         6,
         "seafood",
         "Seafood"
@@ -1155,7 +903,19 @@
         "7500",
         0,
         "electronic music",
-        "Electronica"
+        "Electronic_dance_music"
+    ],
+    [
+        "7500",
+        0,
+        "How about you",
+        "How_About_You?"
+    ],
+    [
+        "7500",
+        2,
+        "favorite electronic dance music artist",
+        "American_Music_Award_for_Favorite_Electronic_Dance_Music_Artist"
     ],
     [
         "7500",
@@ -1173,97 +933,79 @@
         "7500",
         4,
         "Fatboy Slim",
-        "Fatboy_Slim"
+        "Norman_Cook"
+    ],
+    [
+        "7500",
+        6,
+        "EDM",
+        "Electronic_dance_music"
+    ],
+    [
+        "7500",
+        6,
+        "EDM festival",
+        "Electronic_dance_music"
     ],
     [
         "8203",
         0,
-        "One Direction",
-        "One_Direction"
+        "I don't know",
+        "The_Smile_Sessions"
     ],
     [
         "8203",
         4,
-        "Harry",
-        "Harry_Potter_(character)"
+        "hit song",
+        "Hit_single"
     ],
     [
         "8203",
         6,
         "pop music",
-        "Pop_music"
+        "Popular_music"
     ],
     [
         "8347",
         0,
         "boxer",
-        "Boxing"
-    ],
-    [
-        "8347",
-        0,
-        "dogs",
-        "Dog"
-    ],
-    [
-        "8347",
-        2,
-        "boxer",
-        "Boxing"
-    ],
-    [
-        "8347",
-        2,
-        "boxers",
-        "Boxing"
-    ],
-    [
-        "8347",
-        4,
-        "Boxers",
         "Boxer_(dog)"
     ],
     [
         "8347",
-        4,
-        "breeds",
-        "Dog_breed"
+        2,
+        "boxer",
+        "Boxer_(dog)"
+    ],
+    [
+        "8347",
+        6,
+        "protective",
+        "Adaptive_immune_system"
     ],
     [
         "8347",
         6,
         "humans",
-        "Human"
-    ],
-    [
-        "8415",
-        0,
-        "cancer survivor",
-        "Cancer_survivor"
-    ],
-    [
-        "8415",
-        0,
-        "cancer",
-        "Cancer"
+        "Human_body"
     ],
     [
         "8415",
         2,
         "cure",
-        "Lymphoma"
+        "Cure_(film)"
     ],
     [
         "8415",
         2,
-        "cancer",
-        "Cancer"
+        "someday",
+        "Someday_(2011_film)"
     ],
     [
         "8415",
-        2,
-        "humanity",
-        "Human_rights"
+        4,
+        "fast recovery",
+        "TCP_congestion_control"
     ],
     [
         "8415",
@@ -1285,27 +1027,27 @@
     ],
     [
         "8534",
-        2,
-        "1985",
-        "1985"
+        4,
+        "cool",
+        "Temperature"
     ],
     [
         "8670",
         0,
-        "yoga instructor",
+        "yoga",
         "Yoga"
     ],
     [
         "8670",
-        0,
-        "gym",
-        "Gym"
+        2,
+        "hot yoga",
+        "Hot_yoga"
     ],
     [
         "8670",
-        0,
-        "classes",
-        "Class_(computer_programming)"
+        2,
+        "Hot yoga",
+        "Hot_yoga"
     ],
     [
         "8670",
@@ -1316,18 +1058,6 @@
     [
         "8670",
         2,
-        "hot yoga",
-        "Bikram_Yoga"
-    ],
-    [
-        "8670",
-        2,
-        "Hot yoga",
-        "Bikram_Yoga"
-    ],
-    [
-        "8670",
-        2,
         "Hatha yoga",
         "Hatha_yoga"
     ],
@@ -1346,8 +1076,14 @@
     [
         "8670",
         4,
+        "yoga? You",
+        "Yoga_for_You"
+    ],
+    [
+        "8670",
+        4,
         "hot yoga",
-        "Bikram_Yoga"
+        "Hot_yoga"
     ],
     [
         "8670",
@@ -1356,40 +1092,34 @@
         "Hatha_yoga"
     ],
     [
-        "8670",
-        6,
-        "physical exercise",
-        "Exercise"
+        "8888",
+        0,
+        "harvesting",
+        "Harvest"
     ],
     [
         "8888",
         0,
-        "car",
-        "Car"
+        "carrots",
+        "Carrot"
     ],
     [
         "8888",
-        0,
-        "crop",
-        "Crop"
-    ],
-    [
-        "8888",
-        2,
+        4,
         "harvest",
         "Harvest"
     ],
     [
         "8888",
         4,
-        "crop",
-        "Crop"
+        "crop yields",
+        "Crop_yield"
     ],
     [
         "8888",
         4,
-        "car",
-        "Car"
+        "carrots",
+        "Carrot"
     ],
     [
         "8888",
@@ -1400,20 +1130,8 @@
     [
         "8888",
         6,
-        "Carrots",
-        "Carrot"
-    ],
-    [
-        "8888",
-        6,
-        "veggie",
-        "Vegetarianism"
-    ],
-    [
-        "9898",
-        0,
-        "shows",
-        "Television_show"
+        "super",
+        "Vitamin_A"
     ],
     [
         "9898",
@@ -1423,33 +1141,33 @@
     ],
     [
         "9898",
-        2,
-        "episode",
-        "Episode"
-    ],
-    [
-        "9898",
-        2,
-        "moral",
-        "Morality"
+        4,
+        "people",
+        "People_(magazine)"
     ],
     [
         "9898",
         4,
-        "Star Trek movies",
-        "List_of_Star_Trek_films_and_television_series"
+        "bet",
+        "BET"
+    ],
+    [
+        "9898",
+        4,
+        "Star Trek",
+        "Star_Trek"
+    ],
+    [
+        "9898",
+        6,
+        "I am",
+        "I_Am..._Sasha_Fierce"
     ],
     [
         "9898",
         8,
-        "movies",
-        "Film"
-    ],
-    [
-        "9898",
-        8,
-        "80's movies",
-        "1980s_in_film"
+        "heart",
+        "To_Heart"
     ],
     [
         "9898",
@@ -1464,16 +1182,16 @@
         "Pet_Sematary"
     ],
     [
-        "10947",
-        0,
-        "Singing",
-        "Singing"
+        "9898",
+        8,
+        "right, there",
+        "Right_There_(Nicole_Scherzinger_song)"
     ],
     [
-        "10947",
-        2,
-        "singer",
-        "Singing"
+        "9898",
+        8,
+        "something",
+        "Something_(Beatles_song)"
     ],
     [
         "10947",
@@ -1483,39 +1201,9 @@
     ],
     [
         "10947",
-        2,
-        "ear",
-        "Ear"
-    ],
-    [
-        "10947",
-        4,
-        "Practice",
-        "Transcendental_Meditation"
-    ],
-    [
-        "10947",
-        4,
-        "time",
-        "Time"
-    ],
-    [
-        "10947",
-        4,
-        "sing",
-        "Singing"
-    ],
-    [
-        "10947",
-        4,
-        "singing",
-        "Singing"
-    ],
-    [
-        "10947",
         6,
-        "singing",
-        "Singing"
+        "warm up",
+        "Warming_up"
     ],
     [
         "11216",
@@ -1526,26 +1214,14 @@
     [
         "11216",
         2,
-        "album",
-        "Album"
+        "Do you know",
+        "Do_You_Know?_(The_Ping_Pong_Song)"
     ],
     [
         "11216",
-        4,
-        "music",
-        "Music"
-    ],
-    [
-        "11216",
-        6,
-        "music",
-        "Music"
-    ],
-    [
-        "11216",
-        6,
-        "rap",
-        "Hip_hop_music"
+        2,
+        "you know what",
+        "You_Know_What"
     ],
     [
         "11384",
@@ -1556,14 +1232,20 @@
     [
         "11384",
         2,
+        "Yes",
+        "Yes_(band)"
+    ],
+    [
+        "11384",
+        2,
         "1980s",
-        "1980s"
+        "1980s_in_music"
     ],
     [
         "11384",
         2,
         "1990s",
-        "1990s"
+        "1990s_in_music"
     ],
     [
         "11384",
@@ -1573,27 +1255,33 @@
     ],
     [
         "11384",
-        4,
-        "songs",
-        "Song"
-    ],
-    [
-        "11384",
-        6,
-        "Musi",
-        "Musi_River_(India)"
-    ],
-    [
-        "11384",
         6,
         "Anthrax",
-        "Anthrax"
+        "Anthrax_(American_band)"
     ],
     [
         "11384",
         6,
         "Korn",
         "Korn"
+    ],
+    [
+        "11384",
+        6,
+        "m so",
+        "Sociology"
+    ],
+    [
+        "11384",
+        8,
+        "Yeah",
+        "Yeah!!!"
+    ],
+    [
+        "11384",
+        8,
+        "think",
+        "Think_(Aretha_Franklin_song)"
     ],
     [
         "11384",
@@ -1604,20 +1292,14 @@
     [
         "13086",
         0,
-        "cheetos",
-        "Cheetos"
-    ],
-    [
-        "13086",
-        0,
-        "hot cheetos",
+        "flaming hot cheetos",
         "Cheetos"
     ],
     [
         "13086",
         2,
-        "flavor",
-        "Flavor"
+        "potato",
+        "Potato"
     ],
     [
         "13086",
@@ -1634,32 +1316,32 @@
     [
         "13086",
         6,
-        "night",
-        "Night"
+        "burger king",
+        "Burger_King"
     ],
     [
         "13086",
         8,
-        "best",
-        "Gerrit_Rietveld"
+        "then, you",
+        "The_Beatles'_Christmas_records"
     ],
     [
         "13669",
         5,
-        "Diablo",
-        "Diablo_(video_game)"
+        "My favorite game",
+        "My_Favourite_Game"
     ],
     [
         "13669",
         7,
         "objective",
-        "Goal"
+        "Objectivity_(philosophy)"
     ],
     [
         "13669",
         7,
         "game",
-        "Game"
+        "Game_theory"
     ],
     [
         "14373",
@@ -1669,21 +1351,21 @@
     ],
     [
         "14373",
-        1,
-        "auto industry",
-        "Automotive_industry"
-    ],
-    [
-        "14373",
         3,
         "Germany",
-        "Germany"
+        "German_Empire"
     ],
     [
         "14373",
-        7,
-        "family",
-        "Family_(biology)"
+        5,
+        "do you",
+        "Do_You_(Ne-Yo_song)"
+    ],
+    [
+        "14373",
+        5,
+        "you",
+        "For_You_(Utada_Hikaru_song)"
     ],
     [
         "14373",
@@ -1701,61 +1383,25 @@
         "14767",
         0,
         "Story So Far",
-        "2008_Florida_Democratic_primary"
+        "The_Story_So_Far_(band)"
     ],
     [
         "14767",
         2,
-        "genre",
-        "Genre"
+        "you",
+        "You_(Lloyd_song)"
     ],
     [
         "14767",
         2,
-        "Haha",
-        "Haha_(entertainer)"
-    ],
-    [
-        "14767",
-        4,
-        "TSSF",
-        "Third_Order_of_Saint_Francis"
-    ],
-    [
-        "14767",
-        6,
-        "Fallout Boy",
-        "Fall_Out_Boy"
+        "you know what",
+        "You_Know_What"
     ],
     [
         "14935",
         1,
         "Hawaii",
         "Hawaii"
-    ],
-    [
-        "14935",
-        1,
-        "USA",
-        "United_States"
-    ],
-    [
-        "14935",
-        3,
-        "many",
-        "Paul_Erd\u0151s"
-    ],
-    [
-        "14935",
-        3,
-        "islands",
-        "Island"
-    ],
-    [
-        "14935",
-        5,
-        "island",
-        "Island"
     ],
     [
         "14935",
@@ -1764,46 +1410,22 @@
         "Hawaii"
     ],
     [
-        "16678",
-        1,
-        "high school",
-        "Secondary_school"
-    ],
-    [
-        "16678",
-        3,
-        "Bass",
-        "Bass_guitar"
-    ],
-    [
-        "16678",
-        3,
-        "singers",
-        "Singing"
-    ],
-    [
-        "16678",
-        5,
-        "choir",
-        "Choir"
-    ],
-    [
-        "16678",
-        5,
-        "singers",
-        "Singing"
+        "14935",
+        7,
+        "state",
+        "Alabama"
     ],
     [
         "16678",
         5,
         "Bass",
-        "Bass_guitar"
+        "Bass_(voice_type)"
     ],
     [
         "16678",
         5,
-        "soprano",
-        "Soprano"
+        "cant",
+        "Song_of_Songs"
     ],
     [
         "16678",
@@ -1815,31 +1437,13 @@
         "16678",
         7,
         "conductors",
-        "Electrical_conductor"
+        "Conducting"
     ],
     [
         "16678",
         7,
         "symphony",
         "Symphony"
-    ],
-    [
-        "16678",
-        9,
-        "choir",
-        "Choir"
-    ],
-    [
-        "16678",
-        9,
-        "people",
-        "People"
-    ],
-    [
-        "16782",
-        1,
-        "softball",
-        "Softball"
     ],
     [
         "16782",
@@ -1856,20 +1460,8 @@
     [
         "16782",
         7,
-        "ball",
-        "Ball"
-    ],
-    [
-        "16782",
-        7,
         "Baseball",
         "Baseball"
-    ],
-    [
-        "16782",
-        7,
-        "pitch",
-        "Pitch_(music)"
     ],
     [
         "17320",
@@ -1879,33 +1471,21 @@
     ],
     [
         "17320",
-        2,
-        "tea",
-        "Tea"
-    ],
-    [
-        "17320",
-        4,
-        "Scottish",
-        "Scotland"
-    ],
-    [
-        "17320",
-        4,
-        "whiskey",
-        "Whisky"
-    ],
-    [
-        "17754",
         0,
-        "online games",
-        "Online_game"
+        "rough day",
+        "Rough_Day"
+    ],
+    [
+        "17320",
+        4,
+        "Scottish people",
+        "Scottish_people"
     ],
     [
         "17754",
         2,
         "online game",
-        "Massively_multiplayer_online_role-playing_game"
+        "Online_game"
     ],
     [
         "17754",
@@ -1914,28 +1494,16 @@
         "World_of_Warcraft"
     ],
     [
-        "17754",
-        6,
-        "Blizzard",
-        "Blizzard_Entertainment"
-    ],
-    [
         "18415",
         3,
         "south east",
-        "South_East_England"
+        "Southeastern_United_States"
     ],
     [
         "18415",
         3,
-        "desert",
-        "Desert"
-    ],
-    [
-        "18415",
-        3,
-        "movie",
-        "Film"
+        "Cage",
+        "Nicolas_Cage"
     ],
     [
         "18415",
@@ -1946,50 +1514,32 @@
     [
         "18415",
         5,
-        "movies",
-        "Film"
-    ],
-    [
-        "18415",
-        5,
         "Peggy Sue Got Married",
         "Peggy_Sue_Got_Married"
     ],
     [
         "18415",
-        5,
-        "Face/Off",
-        "Face/Off"
-    ],
-    [
-        "18415",
-        5,
-        "Rock",
-        "Rock_music"
-    ],
-    [
-        "18415",
         7,
-        "actors",
-        "Actor"
-    ],
-    [
-        "18415",
-        7,
-        "movies",
-        "Film"
+        "performance",
+        "Performance"
     ],
     [
         "18415",
         7,
         "critics",
-        "Critic"
+        "Criticism"
+    ],
+    [
+        "18415",
+        7,
+        "hate",
+        "Hatred"
     ],
     [
         "18415",
         9,
         "Gone with the Wind",
-        "Gone_with_the_Wind_(film)"
+        "Gone_with_the_Wind"
     ],
     [
         "18415",
@@ -2005,27 +1555,9 @@
     ],
     [
         "18774",
-        1,
-        "favorite color",
-        "Color_preferences"
-    ],
-    [
-        "18774",
-        3,
-        "Barney",
-        "Barney_Stinson"
-    ],
-    [
-        "18774",
         7,
-        "show",
-        "Late_Show_with_David_Letterman"
-    ],
-    [
-        "18774",
-        7,
-        "songs",
-        "Song"
+        "neat",
+        "Near-Earth_Asteroid_Tracking"
     ],
     [
         "18972",
@@ -2034,28 +1566,10 @@
         "Pit_bull"
     ],
     [
-        "18972",
-        0,
-        "dogs",
-        "Dog"
-    ],
-    [
-        "18972",
-        2,
-        "owners",
-        "Ownership"
-    ],
-    [
-        "18972",
-        6,
-        "breeds",
-        "Dog_breed"
-    ],
-    [
         "19386",
         0,
-        "vegetarian",
-        "Vegetarianism"
+        "I love to eat",
+        "I_Love_to_Eat"
     ],
     [
         "19386",
@@ -2072,44 +1586,32 @@
     [
         "19386",
         2,
-        "cab",
-        "Banana"
+        "cabbage",
+        "Cabbage"
     ],
     [
         "19386",
         2,
-        "car",
-        "Car"
+        "carrot",
+        "Carrot"
     ],
     [
         "19386",
         4,
-        "food",
-        "Food"
+        "idly",
+        "Idli"
     ],
     [
         "19386",
         4,
         "sambar",
-        "Sambar_deer"
+        "Sambar_(dish)"
     ],
     [
         "19386",
-        6,
-        "digestion",
-        "Digestion"
-    ],
-    [
-        "19386",
-        6,
-        "food",
-        "Food"
-    ],
-    [
-        "19386",
-        6,
-        "babies",
-        "Infant"
+        8,
+        "idly",
+        "Idli"
     ],
     [
         "19386",
@@ -2121,7 +1623,7 @@
         "19386",
         8,
         "pongal",
-        "Thai_Pongal"
+        "Pongal_(dish)"
     ],
     [
         "19386",
@@ -2130,10 +1632,10 @@
         "Puri_(food)"
     ],
     [
-        "19398",
-        0,
-        "pet",
-        "Pet"
+        "19386",
+        8,
+        "tiffin",
+        "Tiffin"
     ],
     [
         "19398",
@@ -2142,64 +1644,16 @@
         "Pug"
     ],
     [
-        "19398",
-        0,
-        "cor",
-        "Color"
-    ],
-    [
-        "19398",
-        2,
-        "breed",
-        "Dog_breed"
-    ],
-    [
-        "19398",
-        4,
-        "Corky",
-        "Chris_Burke_(actor)"
-    ],
-    [
-        "19398",
-        6,
-        "Corky",
-        "Chris_Burke_(actor)"
-    ],
-    [
-        "19398",
-        6,
-        "temperament",
-        "Temperament"
-    ],
-    [
-        "19398",
-        6,
-        "snouts",
-        "Snout"
-    ],
-    [
-        "19544",
-        1,
-        "Red",
-        "Red"
-    ],
-    [
-        "19544",
-        1,
-        "color",
-        "Color"
-    ],
-    [
-        "19544",
-        1,
-        "cars",
-        "Car"
-    ],
-    [
         "19544",
         3,
         "Scarlet",
         "Scarlet_(color)"
+    ],
+    [
+        "19544",
+        3,
+        "shade",
+        "Tints_and_shades"
     ],
     [
         "19544",
@@ -2216,26 +1670,20 @@
     [
         "19544",
         5,
-        "pink",
-        "Pink"
+        "Wow",
+        "Bow_Wow_(rapper)"
     ],
     [
         "19544",
         5,
-        "red",
-        "Red"
+        "crazy",
+        "Crazy_(Gnarls_Barkley_song)"
     ],
     [
         "19544",
         5,
-        "colors",
-        "Color"
-    ],
-    [
-        "19544",
-        5,
-        "white",
-        "White"
+        "I know",
+        "I_Know_(Jay-Z_song)"
     ],
     [
         "19544",
@@ -2246,26 +1694,14 @@
     [
         "19544",
         7,
-        "favorite color",
-        "Color_preferences"
+        "everything I own",
+        "Everything_I_Own"
     ],
     [
         "19544",
         7,
         "pink",
-        "Pink"
-    ],
-    [
-        "19544",
-        7,
-        "red",
-        "Red"
-    ],
-    [
-        "19544",
-        9,
-        "romance",
-        "Romance_film"
+        "Pink_(singer)"
     ],
     [
         "19684",
@@ -2275,45 +1711,21 @@
     ],
     [
         "19684",
-        2,
-        "car",
-        "Car"
-    ],
-    [
-        "19684",
         4,
         "Ferrari",
         "Ferrari"
     ],
     [
-        "19684",
-        6,
-        "money",
-        "Money"
-    ],
-    [
         "20223",
         1,
-        "pasta",
-        "Pasta"
-    ],
-    [
-        "20223",
-        1,
-        "Angel Hair",
-        "Capellini"
+        "How about you",
+        "How_About_You?"
     ],
     [
         "20223",
         5,
         "extrusion",
         "Extrusion"
-    ],
-    [
-        "20223",
-        7,
-        "eateries",
-        "Restaurant"
     ],
     [
         "20223",
@@ -2324,8 +1736,8 @@
     [
         "20284",
         1,
-        "colour",
-        "Color"
+        "red",
+        "Red"
     ],
     [
         "20284",
@@ -2342,20 +1754,14 @@
     [
         "20284",
         3,
-        "colour",
-        "Color"
-    ],
-    [
-        "20284",
-        3,
         "pink",
         "Pink"
     ],
     [
         "20284",
-        7,
-        "albu",
-        "Gheorghe_Albu"
+        3,
+        "true colour",
+        "Color_depth"
     ],
     [
         "20354",
@@ -2367,13 +1773,19 @@
         "20354",
         0,
         "dates",
-        "Date_palm"
+        "Dating"
+    ],
+    [
+        "20354",
+        0,
+        "husband",
+        "Husband"
     ],
     [
         "20354",
         4,
         "Italy",
-        "Italy"
+        "Italy_national_football_team"
     ],
     [
         "20354",
@@ -2390,14 +1802,8 @@
     [
         "20950",
         0,
-        "sun",
-        "Sun"
-    ],
-    [
-        "20950",
-        0,
-        "dolls",
-        "Doll"
+        "My Little Pony",
+        "My_Little_Pony:_Friendship_Is_Magic"
     ],
     [
         "20950",
@@ -2406,40 +1812,10 @@
         "Hasbro"
     ],
     [
-        "20950",
-        2,
-        "toy company",
-        "Toy"
-    ],
-    [
-        "20950",
-        4,
-        "ponies",
-        "Pony"
-    ],
-    [
-        "21007",
-        1,
-        "bacon",
-        "Bacon"
-    ],
-    [
-        "21007",
-        9,
-        "ice cream",
-        "Ice_cream"
-    ],
-    [
         "21065",
         0,
         "valedictorian",
         "Valedictorian"
-    ],
-    [
-        "21065",
-        0,
-        "high school",
-        "Secondary_school"
     ],
     [
         "21065",
@@ -2450,8 +1826,14 @@
     [
         "21065",
         4,
+        "Home",
+        "Home_(sports)"
+    ],
+    [
+        "21065",
+        4,
         "Eagles",
-        "Eagle"
+        "Philadelphia_Eagles"
     ],
     [
         "21065",
@@ -2474,20 +1856,26 @@
     [
         "21065",
         6,
+        "watch",
+        "Watch"
+    ],
+    [
+        "21065",
+        6,
         "Lebron James",
         "LeBron_James"
     ],
     [
         "21099",
-        0,
-        "hello",
-        "Hello"
+        2,
+        "I I",
+        "Ingushetia"
     ],
     [
         "21099",
-        0,
-        "Metalica",
-        "Metallica"
+        2,
+        "don",
+        "Don_Cossacks"
     ],
     [
         "21099",
@@ -2509,9 +1897,9 @@
     ],
     [
         "21325",
-        0,
-        "holiday",
-        "Holiday"
+        2,
+        "love",
+        "Romance_(love)"
     ],
     [
         "21325",
@@ -2521,15 +1909,9 @@
     ],
     [
         "21325",
-        4,
-        "culture",
-        "Culture"
-    ],
-    [
-        "21325",
         6,
-        "sense",
-        "Euclidean_vector"
+        "Halloween",
+        "Halloween_(1978_film)"
     ],
     [
         "21325",
@@ -2546,6 +1928,12 @@
     [
         "21325",
         8,
+        "love",
+        "Love"
+    ],
+    [
+        "21325",
+        8,
         "Halloween",
         "Halloween"
     ],
@@ -2557,6 +1945,30 @@
     ],
     [
         "22038",
+        0,
+        "How about you",
+        "How_About_You_(Staind_song)"
+    ],
+    [
+        "22038",
+        0,
+        "who",
+        "The_Who"
+    ],
+    [
+        "22038",
+        2,
+        "Canadian",
+        "Canadians"
+    ],
+    [
+        "22038",
+        2,
+        "Canadian rock",
+        "Canadian_rock"
+    ],
+    [
+        "22038",
         2,
         "Rush",
         "Rush_(band)"
@@ -2564,8 +1976,20 @@
     [
         "22038",
         4,
-        "album",
-        "Album"
+        "Yes",
+        "Yes_(band)"
+    ],
+    [
+        "22038",
+        4,
+        "drummers",
+        "Drummer"
+    ],
+    [
+        "22038",
+        4,
+        "first album",
+        "Rush_(Rush_album)"
     ],
     [
         "22038",
@@ -2582,6 +2006,12 @@
     [
         "22038",
         6,
+        "Yes",
+        "Yes_(band)"
+    ],
+    [
+        "22038",
+        6,
         "Clockwork Angels",
         "Clockwork_Angels"
     ],
@@ -2594,8 +2024,8 @@
     [
         "22282",
         0,
-        "books",
-        "Book"
+        "written",
+        "Writing"
     ],
     [
         "22282",
@@ -2605,33 +2035,39 @@
     ],
     [
         "22282",
-        0,
-        "Words",
-        "Word"
+        2,
+        "imaginative",
+        "Imagination"
     ],
     [
         "22282",
         2,
-        "J.K.",
-        "J._K._Rowling"
-    ],
-    [
-        "22282",
-        2,
-        "dream",
+        "dream-like",
         "Dream"
     ],
     [
         "22282",
         2,
-        "characters",
-        "Character_(computing)"
+        "creativity",
+        "Creativity"
     ],
     [
         "22282",
         2,
-        "story-telling",
-        "Storytelling"
+        "characters",
+        "Phenotypic_trait"
+    ],
+    [
+        "22282",
+        2,
+        "adore",
+        "Adoration"
+    ],
+    [
+        "22282",
+        4,
+        "the deathly hallows",
+        "Magical_objects_in_Harry_Potter"
     ],
     [
         "22282",
@@ -2642,31 +2078,13 @@
     [
         "22282",
         4,
-        "person",
-        "Grammatical_person"
-    ],
-    [
-        "22282",
-        6,
-        "Snape",
-        "Severus_Snape"
-    ],
-    [
-        "22282",
-        6,
-        "movie",
-        "Film"
+        "caring",
+        "Ethics_of_care"
     ],
     [
         "22282",
         6,
         "professor Dumbledore",
         "Albus_Dumbledore"
-    ],
-    [
-        "22282",
-        8,
-        "novel",
-        "Novel"
     ]
 ]

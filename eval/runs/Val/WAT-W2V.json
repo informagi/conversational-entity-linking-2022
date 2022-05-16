@@ -15,25 +15,19 @@
         "1088",
         2,
         "my favorite movie",
-        "Robert_De_Niro"
+        "Academy_Award_for_Best_Actor"
     ],
     [
         "1088",
         2,
         "my favorite movie",
-        "Academy_Award_for_Best_Actor"
+        "Robert_De_Niro"
     ],
     [
         "1088",
         6,
         "my mother",
         "Queen_Victoria"
-    ],
-    [
-        "1515",
-        1,
-        "my babies",
-        "Child_development_stages"
     ],
     [
         "1515",
@@ -46,6 +40,12 @@
         1,
         "my babies",
         "Kitten"
+    ],
+    [
+        "1515",
+        1,
+        "my babies",
+        "Child_development_stages"
     ],
     [
         "1876",
@@ -63,13 +63,13 @@
         "1943",
         6,
         "My favorite Elvis song",
-        "Canaan_Records"
+        "Artistic_inspiration"
     ],
     [
         "1943",
         6,
         "My favorite Elvis song",
-        "Artistic_inspiration"
+        "Canaan_Records"
     ],
     [
         "1943",
@@ -87,25 +87,13 @@
         "2009",
         5,
         "my favorite game soundtracks",
+        "Friends"
+    ],
+    [
+        "2009",
+        5,
+        "my favorite game soundtracks",
         "The_One_(2001_film)"
-    ],
-    [
-        "2009",
-        5,
-        "my favorite game soundtracks",
-        "Skateboarding_trick"
-    ],
-    [
-        "2009",
-        5,
-        "my favorite game soundtracks",
-        "Everything_(Nine_Inch_Nails_song)"
-    ],
-    [
-        "2009",
-        5,
-        "my favorite game soundtracks",
-        "Skateboarding"
     ],
     [
         "2009",
@@ -117,13 +105,25 @@
         "2009",
         5,
         "my favorite game soundtracks",
-        "Friends"
+        "Skateboarding_trick"
     ],
     [
         "2009",
         5,
         "my favorite game soundtracks",
         "Tony_Hawk's_(series)"
+    ],
+    [
+        "2009",
+        5,
+        "my favorite game soundtracks",
+        "Skateboarding"
+    ],
+    [
+        "2009",
+        5,
+        "my favorite game soundtracks",
+        "Everything_(Nine_Inch_Nails_song)"
     ],
     [
         "2009",
@@ -135,7 +135,19 @@
         "2009",
         7,
         "my sister's kids",
+        "Friends"
+    ],
+    [
+        "2009",
+        7,
+        "my sister's kids",
         "The_One_(2001_film)"
+    ],
+    [
+        "2009",
+        7,
+        "my sister's kids",
+        "Kids_(film)"
     ],
     [
         "2009",
@@ -147,7 +159,7 @@
         "2009",
         7,
         "my sister's kids",
-        "Everything_(Nine_Inch_Nails_song)"
+        "Tony_Hawk's_(series)"
     ],
     [
         "2009",
@@ -159,31 +171,13 @@
         "2009",
         7,
         "my sister's kids",
-        "Friends"
-    ],
-    [
-        "2009",
-        7,
-        "my sister's kids",
-        "Tony_Hawk's_(series)"
+        "Everything_(Nine_Inch_Nails_song)"
     ],
     [
         "2174",
         0,
         "my favorite movies",
         "Walt_Disney_Pictures"
-    ],
-    [
-        "5321",
-        4,
-        "my type of song",
-        "Rhythm_and_blues"
-    ],
-    [
-        "5321",
-        4,
-        "my type of song",
-        "Joe_(singer)"
     ],
     [
         "5321",
@@ -198,16 +192,28 @@
         "R._Kelly"
     ],
     [
-        "5746",
-        6,
-        "My Favourite song",
-        "The_Band"
+        "5321",
+        4,
+        "my type of song",
+        "Joe_(singer)"
+    ],
+    [
+        "5321",
+        4,
+        "my type of song",
+        "Rhythm_and_blues"
     ],
     [
         "5746",
         6,
         "My Favourite song",
         "The_Rolling_Stones"
+    ],
+    [
+        "5746",
+        6,
+        "My Favourite song",
+        "The_Band"
     ],
     [
         "5746",
@@ -225,25 +231,25 @@
         "5746",
         6,
         "My Favourite song",
-        "Glam_metal"
-    ],
-    [
-        "5746",
-        6,
-        "My Favourite song",
-        "Freddie_Mercury"
-    ],
-    [
-        "5746",
-        6,
-        "My Favourite song",
         "Vocal_range"
     ],
     [
         "5746",
         6,
         "My Favourite song",
+        "Glam_metal"
+    ],
+    [
+        "5746",
+        6,
+        "My Favourite song",
         "People_(magazine)"
+    ],
+    [
+        "5746",
+        6,
+        "My Favourite song",
+        "Freddie_Mercury"
     ],
     [
         "5799",
@@ -267,6 +273,12 @@
         "7231",
         2,
         "my favorite steak",
+        "Hanger_steak"
+    ],
+    [
+        "7231",
+        2,
+        "my favorite steak",
         "Yum_cha"
     ],
     [
@@ -285,12 +297,6 @@
         "7792",
         4,
         "my tea",
-        "Drink"
-    ],
-    [
-        "7792",
-        4,
-        "my tea",
         "Iced_tea"
     ],
     [
@@ -298,6 +304,12 @@
         4,
         "my tea",
         "Powdered_sugar"
+    ],
+    [
+        "7792",
+        4,
+        "my tea",
+        "Drink"
     ],
     [
         "8611",
@@ -345,13 +357,13 @@
         "10195",
         1,
         "my favourite character",
-        "Thank_God_You're_Here"
+        "Squidward_Tentacles"
     ],
     [
         "10195",
         1,
         "my favourite character",
-        "Squidward_Tentacles"
+        "Thank_God_You're_Here"
     ],
     [
         "10802",
@@ -405,7 +417,25 @@
         "11775",
         8,
         "my dog",
+        "Dog"
+    ],
+    [
+        "11775",
+        8,
+        "my dog",
+        "Giant_dog_breed"
+    ],
+    [
+        "11775",
+        8,
+        "my dog",
         "Dog_type"
+    ],
+    [
+        "11775",
+        8,
+        "my dog",
+        "Toy_dog"
     ],
     [
         "11775",
@@ -420,22 +450,10 @@
         "Companion_dog"
     ],
     [
-        "11775",
+        "11927",
         8,
-        "my dog",
-        "Toy_dog"
-    ],
-    [
-        "11775",
-        8,
-        "my dog",
-        "Dog"
-    ],
-    [
-        "11775",
-        8,
-        "my dog",
-        "Giant_dog_breed"
+        "my genre thanks",
+        "Insight"
     ],
     [
         "11927",
@@ -453,6 +471,12 @@
         "11927",
         8,
         "my genre thanks",
+        "Romance_(love)"
+    ],
+    [
+        "11927",
+        8,
+        "my genre thanks",
         "Novella"
     ],
     [
@@ -460,18 +484,6 @@
         8,
         "my genre thanks",
         "Mystery_fiction"
-    ],
-    [
-        "11927",
-        8,
-        "my genre thanks",
-        "Insight"
-    ],
-    [
-        "11927",
-        8,
-        "my genre thanks",
-        "Romance_(love)"
     ],
     [
         "12731",
@@ -507,18 +519,36 @@
         "16569",
         2,
         "my pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        2,
-        "my pizza",
         "Food"
     ],
     [
         "16569",
         2,
         "my pizza",
+        "Pizza"
+    ],
+    [
+        "16569",
+        2,
+        "my pizza",
+        "Pineapple"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
+        "Food"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
+        "Pizza"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
         "Pineapple"
     ],
     [
@@ -526,24 +556,6 @@
         4,
         "my own pizza",
         "Domino's_Pizza"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Food"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Pineapple"
     ],
     [
         "16856",
@@ -560,7 +572,13 @@
     [
         "19782",
         3,
-        "my hair deep purple",
+        "my gray hairs",
+        "Brown_hair"
+    ],
+    [
+        "19782",
+        3,
+        "my gray hairs",
         "Tweezers"
     ],
     [
@@ -572,14 +590,8 @@
     [
         "19782",
         3,
-        "my gray hairs",
+        "my hair deep purple",
         "Tweezers"
-    ],
-    [
-        "19782",
-        3,
-        "my gray hairs",
-        "Brown_hair"
     ],
     [
         "19782",
@@ -609,31 +621,19 @@
         "22127",
         5,
         "my favourite song",
-        "Pop_music"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
         "Bon_Scott"
     ],
     [
         "22127",
         5,
         "my favourite song",
+        "Sympathy_for_the_Devil"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
         "The_Times"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
-        "Thriller_(song)"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
-        "Musical_ensemble"
     ],
     [
         "22127",
@@ -657,7 +657,25 @@
         "22127",
         5,
         "my favourite song",
+        "Musical_ensemble"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
         "Michael_Jackson's_Thriller_(music_video)"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
+        "Thriller_(song)"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
+        "Pop_music"
     ],
     [
         "90",
@@ -722,6 +740,12 @@
     [
         "733",
         8,
+        "the caramel",
+        "Caramel"
+    ],
+    [
+        "733",
+        8,
         "caramel",
         "Caramel"
     ],
@@ -752,7 +776,7 @@
     [
         "1088",
         0,
-        "good actor",
+        "a good actor",
         "Academy_Award_for_Best_Actor"
     ],
     [
@@ -776,7 +800,7 @@
     [
         "1515",
         1,
-        "shelter",
+        "a shelter",
         "Animal_shelter"
     ],
     [
@@ -794,7 +818,7 @@
     [
         "1515",
         5,
-        "one",
+        "the one",
         "The_Matrix"
     ],
     [
@@ -896,7 +920,7 @@
     [
         "2009",
         1,
-        "kid",
+        "a kid",
         "Kids_(film)"
     ],
     [
@@ -908,7 +932,7 @@
     [
         "2009",
         5,
-        "one",
+        "the one",
         "The_One_(2001_film)"
     ],
     [
@@ -920,7 +944,7 @@
     [
         "2009",
         5,
-        "tricks",
+        "the tricks",
         "Skateboarding_trick"
     ],
     [
@@ -1076,13 +1100,13 @@
     [
         "5746",
         0,
-        "rolling stones",
+        "the rolling stones",
         "The_Rolling_Stones"
     ],
     [
         "5746",
         2,
-        "Prince",
+        "the Prince",
         "Charles,_Prince_of_Wales"
     ],
     [
@@ -1154,7 +1178,7 @@
     [
         "5746",
         6,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
@@ -1166,13 +1190,13 @@
     [
         "5746",
         6,
-        "Rolling stones",
+        "the Rolling stones",
         "The_Rolling_Stones"
     ],
     [
         "5746",
         6,
-        "80's",
+        "the 80's",
         "Glam_metal"
     ],
     [
@@ -1208,7 +1232,7 @@
     [
         "5799",
         8,
-        "Harry Potter",
+        "the Harry Potter",
         "Harry_Potter_(film_series)"
     ],
     [
@@ -1220,7 +1244,7 @@
     [
         "5799",
         8,
-        "series",
+        "the series",
         "The_Twilight_Saga_(film_series)"
     ],
     [
@@ -1322,7 +1346,7 @@
     [
         "6722",
         4,
-        "friend",
+        "a friend",
         "Friendship"
     ],
     [
@@ -1358,13 +1382,13 @@
     [
         "6787",
         4,
-        "oil industry",
+        "The oil industry",
         "Petroleum_industry"
     ],
     [
         "6787",
         4,
-        "electrical car",
+        "the electrical car",
         "Electric_car"
     ],
     [
@@ -1388,7 +1412,7 @@
     [
         "6974",
         7,
-        "song",
+        "a song",
         "Tomorrow_Never_Dies_(song)"
     ],
     [
@@ -1400,20 +1424,20 @@
     [
         "6974",
         7,
-        "good one",
+        "a good one",
         "The_Transformers:_The_Movie"
     ],
     [
         "7231",
         0,
         "steak",
-        "Hanger_steak"
+        "Steak"
     ],
     [
         "7231",
         0,
-        "steak",
-        "Steak"
+        "a steak",
+        "Hanger_steak"
     ],
     [
         "7231",
@@ -1484,7 +1508,7 @@
     [
         "8052",
         7,
-        "dome",
+        "A dome",
         "Dome"
     ],
     [
@@ -1508,7 +1532,7 @@
     [
         "8611",
         0,
-        "symbol",
+        "a symbol",
         "Symbol"
     ],
     [
@@ -1520,13 +1544,13 @@
     [
         "8611",
         2,
-        "world",
+        "the world",
         "World"
     ],
     [
         "8611",
         2,
-        "internet",
+        "the internet",
         "Internet"
     ],
     [
@@ -1544,7 +1568,7 @@
     [
         "8611",
         4,
-        "chopping",
+        "the chopping",
         "Professional_wrestling_attacks"
     ],
     [
@@ -1552,12 +1576,6 @@
         6,
         "plants",
         "Plant"
-    ],
-    [
-        "8611",
-        6,
-        "plants",
-        "Domesticated_plants_of_Mesoamerica"
     ],
     [
         "8611",
@@ -1570,6 +1588,12 @@
         6,
         "aids",
         "HIV/AIDS"
+    ],
+    [
+        "8611",
+        6,
+        "the plants",
+        "Domesticated_plants_of_Mesoamerica"
     ],
     [
         "8611",
@@ -1778,7 +1802,7 @@
     [
         "9522",
         4,
-        "restaurant",
+        "a restaurant",
         "Restaurant"
     ],
     [
@@ -2030,7 +2054,7 @@
     [
         "11572",
         0,
-        "truck driver",
+        "a truck driver",
         "Truck_driver"
     ],
     [
@@ -2048,7 +2072,7 @@
     [
         "11572",
         8,
-        "lot",
+        "a lot",
         "Land_lot"
     ],
     [
@@ -2084,7 +2108,7 @@
     [
         "11775",
         2,
-        "black labrador retriever",
+        "a black labrador retriever",
         "Labrador_Retriever"
     ],
     [
@@ -2120,13 +2144,13 @@
     [
         "11927",
         2,
-        "thought",
+        "a thought",
         "Thought"
     ],
     [
         "11927",
         2,
-        "novel",
+        "a novel",
         "Novel"
     ],
     [
@@ -2144,13 +2168,13 @@
     [
         "11927",
         6,
-        "novel",
+        "a novel",
         "Novel"
     ],
     [
         "11927",
         6,
-        "term",
+        "the term",
         "Orwellian"
     ],
     [
@@ -2162,7 +2186,7 @@
     [
         "11927",
         6,
-        "same thing",
+        "the same thing",
         "The_Metamorphosis"
     ],
     [
@@ -2174,7 +2198,7 @@
     [
         "11927",
         8,
-        "mystery novel",
+        "a mystery novel",
         "Mystery_fiction"
     ],
     [
@@ -2210,7 +2234,7 @@
     [
         "12731",
         2,
-        "chocolate",
+        "a chocolate",
         "Chocolate"
     ],
     [
@@ -2228,7 +2252,7 @@
     [
         "12731",
         6,
-        "cake",
+        "the cake",
         "Wedding_cake"
     ],
     [
@@ -2300,7 +2324,7 @@
     [
         "14028",
         4,
-        "sky",
+        "the sky",
         "Sky"
     ],
     [
@@ -2312,7 +2336,7 @@
     [
         "14028",
         6,
-        "color",
+        "the color",
         "Orange_(colour)"
     ],
     [
@@ -2336,19 +2360,19 @@
     [
         "14440",
         5,
-        "wasabi",
+        "the wasabi",
         "Wasabi"
     ],
     [
         "14440",
         7,
-        "kind",
+        "the kind",
         "Printing"
     ],
     [
         "14440",
         7,
-        "paste",
+        "a paste",
         "Curry"
     ],
     [
@@ -2468,7 +2492,7 @@
     [
         "15935",
         2,
-        "issue",
+        "an issue",
         "Northern_Ireland_flags_issue"
     ],
     [
@@ -2498,7 +2522,7 @@
     [
         "15935",
         6,
-        "logical fallacy",
+        "a logical fallacy",
         "Fallacy"
     ],
     [
@@ -2552,14 +2576,14 @@
     [
         "16441",
         5,
-        "crust",
-        "Pastry"
+        "the crust",
+        "Crust_(geology)"
     ],
     [
         "16441",
         5,
         "crust",
-        "Crust_(geology)"
+        "Pastry"
     ],
     [
         "16441",
@@ -2570,7 +2594,7 @@
     [
         "16441",
         7,
-        "crust",
+        "the crust",
         "Crust_(geology)"
     ],
     [
@@ -2600,7 +2624,7 @@
     [
         "16569",
         2,
-        "variation",
+        "the variation",
         "Variation_(music)"
     ],
     [
@@ -2630,7 +2654,7 @@
     [
         "16569",
         6,
-        "amount",
+        "the amount",
         "Quantity"
     ],
     [
@@ -2660,13 +2684,13 @@
     [
         "16856",
         6,
-        "Game Boy Camera",
+        "a Game Boy Camera",
         "Game_Boy_Camera"
     ],
     [
         "16856",
         6,
-        "Game Boy Color",
+        "a Game Boy Color",
         "Game_Boy_Color"
     ],
     [
@@ -2744,13 +2768,13 @@
     [
         "18542",
         5,
-        "living",
+        "a living",
         "Life"
     ],
     [
         "18542",
         5,
-        "wide variety",
+        "a wide variety",
         "Biodiversity"
     ],
     [
@@ -2798,7 +2822,7 @@
     [
         "18697",
         0,
-        "world",
+        "the world",
         "World"
     ],
     [
@@ -2840,7 +2864,7 @@
     [
         "19782",
         7,
-        "Days of Our Lives",
+        "The Days of Our Lives",
         "Days_of_Our_Lives"
     ],
     [
@@ -2870,13 +2894,13 @@
     [
         "19877",
         3,
-        "electric car",
+        "an electric car",
         "Electric_car"
     ],
     [
         "19877",
         3,
-        "gas",
+        "a gas",
         "Gas"
     ],
     [
@@ -2900,13 +2924,13 @@
     [
         "19877",
         5,
-        "gallon",
+        "a gallon",
         "Gallon"
     ],
     [
         "19877",
         7,
-        "wall",
+        "the wall",
         "The_Wall"
     ],
     [
@@ -2942,7 +2966,7 @@
     [
         "20004",
         3,
-        "Joshua Tree",
+        "The Joshua Tree",
         "The_Joshua_Tree"
     ],
     [
@@ -2954,7 +2978,7 @@
     [
         "20004",
         5,
-        "rock",
+        "the rock",
         "Dwayne_Johnson"
     ],
     [
@@ -3032,7 +3056,7 @@
     [
         "21303",
         4,
-        "powerup",
+        "a powerup",
         "Power-up"
     ],
     [
@@ -3080,7 +3104,7 @@
     [
         "22127",
         3,
-        "fan",
+        "a fan",
         "Fan_(person)"
     ],
     [
@@ -3092,13 +3116,13 @@
     [
         "22127",
         3,
-        "main vocalist",
+        "the main vocalist",
         "Singing"
     ],
     [
         "22127",
         3,
-        "time",
+        "the time",
         "The_Times"
     ],
     [
@@ -3116,19 +3140,19 @@
     [
         "22127",
         5,
-        "music video",
+        "the music video",
         "Michael_Jackson's_Thriller_(music_video)"
     ],
     [
         "22127",
         5,
-        "style",
+        "the style",
         "De_Stijl"
     ],
     [
         "22127",
         5,
-        "song",
+        "the song",
         "Sympathy_for_the_Devil"
     ],
     [
@@ -3140,7 +3164,7 @@
     [
         "22127",
         5,
-        "time",
+        "the time",
         "The_Times"
     ],
     [
@@ -3166,12 +3190,6 @@
         7,
         "popularity",
         "Popularity"
-    ],
-    [
-        "22127",
-        9,
-        "doctor",
-        "The_Doctor_(Doctor_Who)"
     ],
     [
         "22127",
@@ -3212,6 +3230,12 @@
     [
         "22127",
         9,
+        "the doctor",
+        "The_Doctor_(Doctor_Who)"
+    ],
+    [
+        "22127",
+        9,
         "death",
         "Death"
     ],
@@ -3242,7 +3266,7 @@
     [
         "22255",
         3,
-        "great potato famine",
+        "the great potato famine",
         "Great_Famine_(Ireland)"
     ],
     [
@@ -3254,7 +3278,7 @@
     [
         "22255",
         7,
-        "potato blight",
+        "the potato blight",
         "Phytophthora_infestans"
     ]
 ]

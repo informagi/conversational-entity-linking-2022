@@ -39,13 +39,13 @@
         "2009",
         5,
         "my favorite game soundtracks",
-        "PlayStation"
+        "California"
     ],
     [
         "2009",
         5,
         "my favorite game soundtracks",
-        "California"
+        "PlayStation"
     ],
     [
         "2009",
@@ -93,13 +93,13 @@
         "5799",
         0,
         "my favorite authors",
-        "James_K._Irving"
+        "J._K._Rowling"
     ],
     [
         "5799",
         0,
         "my favorite authors",
-        "J._K._Rowling"
+        "James_K._Irving"
     ],
     [
         "6722",
@@ -111,19 +111,25 @@
         "6974",
         1,
         "my favorite songs",
-        "Kid_Rock"
+        "God"
     ],
     [
         "6974",
         1,
         "my favorite songs",
-        "God"
+        "Kid_Rock"
     ],
     [
         "7231",
         2,
         "my favorite steak",
         "Yum_(software)"
+    ],
+    [
+        "8052",
+        9,
+        "my favorites",
+        "Under_the_Dome_(novel)"
     ],
     [
         "8052",
@@ -136,12 +142,6 @@
         9,
         "my favorites",
         "Stephen_King"
-    ],
-    [
-        "8052",
-        9,
-        "my favorites",
-        "Under_the_Dome_(novel)"
     ],
     [
         "8611",
@@ -171,13 +171,13 @@
         "9522",
         6,
         "My guilty pleasure",
-        "Naples"
+        "Eddie_Murphy"
     ],
     [
         "9522",
         6,
         "My guilty pleasure",
-        "Eddie_Murphy"
+        "Naples"
     ],
     [
         "10195",
@@ -237,7 +237,7 @@
         "18542",
         9,
         "my favorite shows",
-        "New_York_City"
+        "Gossip_Girl"
     ],
     [
         "18542",
@@ -249,7 +249,7 @@
         "18542",
         9,
         "my favorite shows",
-        "Gossip_Girl"
+        "New_York_City"
     ],
     [
         "18697",
@@ -291,13 +291,13 @@
         "22127",
         5,
         "my favourite song",
-        "AC/DC"
+        "Bon_Scott"
     ],
     [
         "22127",
         5,
         "my favourite song",
-        "Bon_Scott"
+        "AC/DC"
     ],
     [
         "733",
@@ -896,7 +896,7 @@
     [
         "19782",
         7,
-        "Days of Our Lives",
+        "The Days of Our Lives",
         "Days_of_Our_Lives"
     ],
     [

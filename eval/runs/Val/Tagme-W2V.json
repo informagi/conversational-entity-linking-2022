@@ -45,13 +45,13 @@
         "1943",
         6,
         "My favorite Elvis song",
-        "Jess_Greenberg"
+        "T.Love"
     ],
     [
         "1943",
         6,
         "My favorite Elvis song",
-        "T.Love"
+        "Jess_Greenberg"
     ],
     [
         "1943",
@@ -69,7 +69,7 @@
         "2009",
         5,
         "my favorite game soundtracks",
-        "Game_On_(exhibition)"
+        "HIM_(Finnish_band)"
     ],
     [
         "2009",
@@ -81,25 +81,19 @@
         "2009",
         5,
         "my favorite game soundtracks",
-        "HIM_(Finnish_band)"
+        "PlayStation"
+    ],
+    [
+        "2009",
+        5,
+        "my favorite game soundtracks",
+        "Game_On_(exhibition)"
     ],
     [
         "2009",
         5,
         "my favorite game soundtracks",
         "California"
-    ],
-    [
-        "2009",
-        5,
-        "my favorite game soundtracks",
-        "PlayStation"
-    ],
-    [
-        "2009",
-        7,
-        "my old system",
-        "Game_On_(exhibition)"
     ],
     [
         "2009",
@@ -117,19 +111,13 @@
         "2009",
         7,
         "my old system",
-        "PlayStation"
-    ],
-    [
-        "2009",
-        7,
-        "my sister's kids",
         "Game_On_(exhibition)"
     ],
     [
         "2009",
         7,
-        "my sister's kids",
-        "The_Who"
+        "my old system",
+        "PlayStation"
     ],
     [
         "2009",
@@ -141,7 +129,13 @@
         "2009",
         7,
         "my sister's kids",
-        "PlayStation"
+        "My_Favourite_Game"
+    ],
+    [
+        "2009",
+        7,
+        "my sister's kids",
+        "The_Who"
     ],
     [
         "2009",
@@ -153,7 +147,13 @@
         "2009",
         7,
         "my sister's kids",
-        "My_Favourite_Game"
+        "PlayStation"
+    ],
+    [
+        "2009",
+        7,
+        "my sister's kids",
+        "Game_On_(exhibition)"
     ],
     [
         "2174",
@@ -177,12 +177,6 @@
         "5321",
         4,
         "my type of song",
-        "Rhythm_and_blues"
-    ],
-    [
-        "5321",
-        4,
-        "my type of song",
         "Chung_Ching_Yee"
     ],
     [
@@ -198,10 +192,10 @@
         "How_About_You?"
     ],
     [
-        "5746",
-        6,
-        "My Favourite song",
-        "The_Rolling_Stones"
+        "5321",
+        4,
+        "my type of song",
+        "Rhythm_and_blues"
     ],
     [
         "5746",
@@ -213,13 +207,19 @@
         "5746",
         6,
         "My Favourite song",
-        "Vocal_range"
+        "Mercury_Records"
     ],
     [
         "5746",
         6,
         "My Favourite song",
-        "Mercury_Records"
+        "The_Rolling_Stones"
+    ],
+    [
+        "5746",
+        6,
+        "My Favourite song",
+        "Vocal_range"
     ],
     [
         "5746",
@@ -261,13 +261,13 @@
         "6722",
         6,
         "my twinkle",
-        "Uniregistry"
+        "Jump_on_It_(Montrose_album)"
     ],
     [
         "6722",
         6,
         "my twinkle",
-        "Jump_on_It_(Montrose_album)"
+        "Uniregistry"
     ],
     [
         "6974",
@@ -309,6 +309,12 @@
         "8052",
         9,
         "my favorites",
+        "Laconic_phrase"
+    ],
+    [
+        "8052",
+        9,
+        "my favorites",
         "The_Simpsons_Movie"
     ],
     [
@@ -316,12 +322,6 @@
         9,
         "my favorites",
         "Stephen_King"
-    ],
-    [
-        "8052",
-        9,
-        "my favorites",
-        "Laconic_phrase"
     ],
     [
         "8611",
@@ -339,13 +339,13 @@
         "9161",
         0,
         "my favorite animal",
-        "Alpaca"
+        "Harbor_Island,_Seattle"
     ],
     [
         "9161",
         0,
         "my favorite animal",
-        "Harbor_Island,_Seattle"
+        "Alpaca"
     ],
     [
         "9161",
@@ -363,13 +363,13 @@
         "9284",
         2,
         "my favorate song",
-        "Happy_(Pharrell_Williams_song)"
+        "Radiohead"
     ],
     [
         "9284",
         2,
         "my favorate song",
-        "Radiohead"
+        "Happy_(Pharrell_Williams_song)"
     ],
     [
         "9284",
@@ -399,18 +399,12 @@
         "10802",
         2,
         "our area",
-        "History_of_pizza"
+        "Mellow_Mushroom"
     ],
     [
         "10802",
         2,
         "our area",
-        "Mellow_Mushroom"
-    ],
-    [
-        "10802",
-        2,
-        "My favorite kind",
         "History_of_pizza"
     ],
     [
@@ -418,6 +412,12 @@
         2,
         "My favorite kind",
         "Mellow_Mushroom"
+    ],
+    [
+        "10802",
+        2,
+        "My favorite kind",
+        "History_of_pizza"
     ],
     [
         "11045",
@@ -429,25 +429,13 @@
         "11409",
         0,
         "My favorite flavour",
-        "Praline"
+        "Love_on_Ice"
     ],
     [
         "11409",
         0,
         "My favorite flavour",
-        "Love_on_Ice"
-    ],
-    [
-        "11775",
-        8,
-        "my dog",
-        "Ringo_Brown"
-    ],
-    [
-        "11775",
-        8,
-        "my dog",
-        "Labrador_Retriever"
+        "Praline"
     ],
     [
         "11775",
@@ -462,10 +450,22 @@
         "Toy_dog"
     ],
     [
+        "11775",
+        8,
+        "my dog",
+        "Labrador_Retriever"
+    ],
+    [
+        "11775",
+        8,
+        "my dog",
+        "Ringo_Brown"
+    ],
+    [
         "11927",
         8,
         "my genre thanks",
-        "Chivalric_romance"
+        "Novella"
     ],
     [
         "11927",
@@ -477,19 +477,19 @@
         "11927",
         8,
         "my genre thanks",
-        "Novella"
-    ],
-    [
-        "12731",
-        0,
-        "My grandson's favorite type of cake",
-        "Chocolate"
+        "Chivalric_romance"
     ],
     [
         "12731",
         0,
         "My grandson's favorite type of cake",
         "How_About_You?"
+    ],
+    [
+        "12731",
+        0,
+        "My grandson's favorite type of cake",
+        "Chocolate"
     ],
     [
         "12881",
@@ -507,13 +507,13 @@
         "14440",
         3,
         "My favorite",
-        "California_roll"
+        "Sushi"
     ],
     [
         "14440",
         3,
         "My favorite",
-        "Sushi"
+        "California_roll"
     ],
     [
         "14805",
@@ -549,25 +549,19 @@
         "16569",
         4,
         "my own pizza",
-        "Chain_store"
+        "Domino's_Pizza"
     ],
     [
         "16569",
         4,
         "my own pizza",
-        "Domino's_Pizza"
+        "Chain_store"
     ],
     [
         "17165",
         2,
         "my favourite",
         "Stephen_King"
-    ],
-    [
-        "18542",
-        9,
-        "my favorite shows",
-        "Manhattan"
     ],
     [
         "18542",
@@ -588,6 +582,12 @@
         "I_Love_New_York_(TV_series)"
     ],
     [
+        "18542",
+        9,
+        "my favorite shows",
+        "Manhattan"
+    ],
+    [
         "18697",
         0,
         "my favorite city in the world",
@@ -596,26 +596,14 @@
     [
         "19053",
         4,
-        "My girlfriend",
+        "my schedule",
         "Shift_work"
     ],
     [
         "19053",
         4,
-        "my schedule",
+        "My girlfriend",
         "Shift_work"
-    ],
-    [
-        "19782",
-        3,
-        "my hair deep purple",
-        "Plucking_(hair_removal)"
-    ],
-    [
-        "19782",
-        3,
-        "my hair deep purple",
-        "Human_hair_color"
     ],
     [
         "19782",
@@ -625,39 +613,15 @@
     ],
     [
         "19782",
-        7,
-        "My soap opera of choice",
-        "One_Life_to_Live"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
+        3,
+        "my hair deep purple",
         "Plucking_(hair_removal)"
     ],
     [
         "19782",
-        7,
-        "My soap opera of choice",
-        "Days_of_Our_Lives"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
-        "You_(Aretha_Franklin_album)"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
+        3,
+        "my hair deep purple",
         "Human_hair_color"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
-        "Deep_Purple"
     ],
     [
         "19782",
@@ -669,7 +633,43 @@
         "19782",
         7,
         "My soap opera of choice",
+        "Human_hair_color"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
+        "One_Life_to_Live"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
         "The_Days_(song)"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
+        "Deep_Purple"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
+        "Plucking_(hair_removal)"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
+        "You_(Aretha_Franklin_album)"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
+        "Days_of_Our_Lives"
     ],
     [
         "19877",
@@ -693,13 +693,13 @@
         "20004",
         3,
         "My favorite",
-        "U2"
+        "How_Long_(J._D._Souther_song)"
     ],
     [
         "20004",
         3,
         "My favorite",
-        "How_Long_(J._D._Souther_song)"
+        "U2"
     ],
     [
         "20255",
@@ -729,13 +729,7 @@
         "22127",
         5,
         "my favourite song",
-        "Music_genre"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
-        "AC/DC"
+        "Bon_Scott"
     ],
     [
         "22127",
@@ -747,7 +741,13 @@
         "22127",
         5,
         "my favourite song",
-        "Bon_Scott"
+        "Music_genre"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
+        "AC/DC"
     ],
     [
         "90",
@@ -789,13 +789,13 @@
         "733",
         8,
         "caramel",
-        "Caramel_color"
+        "Caramel"
     ],
     [
         "733",
         8,
         "caramel",
-        "Caramel"
+        "Caramel_color"
     ],
     [
         "733",
@@ -1076,7 +1076,7 @@
     [
         "4462",
         9,
-        "bad",
+        "a bad",
         "Aurangabad,_Maharashtra"
     ],
     [
@@ -1478,7 +1478,7 @@
     [
         "8611",
         2,
-        "internet",
+        "the internet",
         "Library"
     ],
     [
@@ -2408,7 +2408,7 @@
     [
         "19782",
         7,
-        "Days",
+        "The Days",
         "The_Days_(song)"
     ],
     [

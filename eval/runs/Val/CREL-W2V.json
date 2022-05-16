@@ -81,13 +81,13 @@
         "2009",
         5,
         "my favorite game soundtracks",
-        "Tony_Hawk's_(series)"
+        "PlayStation"
     ],
     [
         "2009",
         5,
         "my favorite game soundtracks",
-        "PlayStation"
+        "Tony_Hawk's_(series)"
     ],
     [
         "2009",
@@ -99,19 +99,13 @@
         "2009",
         7,
         "my sister's kids",
-        "Tony_Hawk's_(series)"
+        "PlayStation"
     ],
     [
         "2009",
         7,
         "my sister's kids",
-        "PlayStation"
-    ],
-    [
-        "2174",
-        0,
-        "my favorite movies",
-        "Hello"
+        "Tony_Hawk's_(series)"
     ],
     [
         "2174",
@@ -120,10 +114,16 @@
         "The_Walt_Disney_Company"
     ],
     [
+        "2174",
+        0,
+        "my favorite movies",
+        "Hello"
+    ],
+    [
         "5321",
         4,
         "my type of song",
-        "Boyz_II_Men"
+        "R._Kelly"
     ],
     [
         "5321",
@@ -135,19 +135,19 @@
         "5321",
         4,
         "my type of song",
-        "Rhythm_and_blues"
-    ],
-    [
-        "5321",
-        4,
-        "my type of song",
         "Joe_(singer)"
     ],
     [
         "5321",
         4,
         "my type of song",
-        "R._Kelly"
+        "Boyz_II_Men"
+    ],
+    [
+        "5321",
+        4,
+        "my type of song",
+        "Rhythm_and_blues"
     ],
     [
         "5746",
@@ -165,13 +165,13 @@
         "5746",
         6,
         "My Favourite song",
-        "Freddie_Mercury"
+        "Human_voice"
     ],
     [
         "5746",
         6,
         "My Favourite song",
-        "Human_voice"
+        "Freddie_Mercury"
     ],
     [
         "5799",
@@ -219,6 +219,12 @@
         "7792",
         4,
         "my tea",
+        "Iced_tea"
+    ],
+    [
+        "7792",
+        4,
+        "my tea",
         "Sugar"
     ],
     [
@@ -226,12 +232,6 @@
         4,
         "my tea",
         "Drink"
-    ],
-    [
-        "7792",
-        4,
-        "my tea",
-        "Iced_tea"
     ],
     [
         "8611",
@@ -255,13 +255,13 @@
         "9217",
         8,
         "My grandma",
-        "Boiled_egg"
+        "Recipe"
     ],
     [
         "9217",
         8,
         "My grandma",
-        "Recipe"
+        "Boiled_egg"
     ],
     [
         "9284",
@@ -303,13 +303,13 @@
         "10802",
         2,
         "My favorite kind",
-        "Mellow_Mushroom"
+        "Pizza"
     ],
     [
         "10802",
         2,
         "My favorite kind",
-        "Pizza"
+        "Mellow_Mushroom"
     ],
     [
         "11045",
@@ -345,12 +345,6 @@
         "11775",
         8,
         "my dog",
-        "Rafeiro_do_Alentejo"
-    ],
-    [
-        "11775",
-        8,
-        "my dog",
         "Dog"
     ],
     [
@@ -363,19 +357,13 @@
         "11775",
         8,
         "my dog",
+        "Rafeiro_do_Alentejo"
+    ],
+    [
+        "11775",
+        8,
+        "my dog",
         "Dog_type"
-    ],
-    [
-        "11927",
-        8,
-        "my genre thanks",
-        "Novel"
-    ],
-    [
-        "11927",
-        8,
-        "my genre thanks",
-        "Novella"
     ],
     [
         "11927",
@@ -387,13 +375,25 @@
         "11927",
         8,
         "my genre thanks",
-        "Mystery_fiction"
+        "Novel"
     ],
     [
         "11927",
         8,
         "my genre thanks",
         "Romance_novel"
+    ],
+    [
+        "11927",
+        8,
+        "my genre thanks",
+        "Novella"
+    ],
+    [
+        "11927",
+        8,
+        "my genre thanks",
+        "Mystery_fiction"
     ],
     [
         "12731",
@@ -447,18 +447,36 @@
         "16569",
         2,
         "my pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        2,
-        "my pizza",
         "Food"
     ],
     [
         "16569",
         2,
         "my pizza",
+        "Pizza"
+    ],
+    [
+        "16569",
+        2,
+        "my pizza",
+        "Pineapple"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
+        "Food"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
+        "Pizza"
+    ],
+    [
+        "16569",
+        4,
+        "my own pizza",
         "Pineapple"
     ],
     [
@@ -466,24 +484,6 @@
         4,
         "my own pizza",
         "Dominos_(song)"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Food"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Pineapple"
     ],
     [
         "16856",
@@ -506,7 +506,19 @@
     [
         "19782",
         3,
-        "my hair deep purple",
+        "my gray hairs",
+        "Black"
+    ],
+    [
+        "19782",
+        3,
+        "my gray hairs",
+        "Brown"
+    ],
+    [
+        "19782",
+        3,
+        "my gray hairs",
         "Tweezers"
     ],
     [
@@ -514,6 +526,12 @@
         3,
         "my hair deep purple",
         "Black"
+    ],
+    [
+        "19782",
+        3,
+        "my hair deep purple",
+        "Brown"
     ],
     [
         "19782",
@@ -525,25 +543,7 @@
         "19782",
         3,
         "my hair deep purple",
-        "Brown"
-    ],
-    [
-        "19782",
-        3,
-        "my gray hairs",
         "Tweezers"
-    ],
-    [
-        "19782",
-        3,
-        "my gray hairs",
-        "Black"
-    ],
-    [
-        "19782",
-        3,
-        "my gray hairs",
-        "Brown"
     ],
     [
         "19782",
@@ -579,25 +579,13 @@
         "22127",
         5,
         "my favourite song",
-        "Middle_name"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
-        "Pop_music"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
         "Bon_Scott"
     ],
     [
         "22127",
         5,
         "my favourite song",
-        "Thriller_(song)"
+        "Music_video"
     ],
     [
         "22127",
@@ -609,7 +597,19 @@
         "22127",
         5,
         "my favourite song",
-        "Music_video"
+        "Thriller_(song)"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
+        "Middle_name"
+    ],
+    [
+        "22127",
+        5,
+        "my favourite song",
+        "Pop_music"
     ],
     [
         "90",

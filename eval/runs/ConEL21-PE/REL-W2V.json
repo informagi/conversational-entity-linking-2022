@@ -26,25 +26,25 @@
     [
         "2573",
         1,
-        "my favorite",
+        "my second choice",
         "Darryl_Strawberry"
     ],
     [
         "2573",
         1,
-        "my favorite",
+        "my second choice",
         "Conventional_sex"
     ],
     [
         "2573",
         1,
-        "my second choice",
+        "my favorite",
         "Darryl_Strawberry"
     ],
     [
         "2573",
         1,
-        "my second choice",
+        "my favorite",
         "Conventional_sex"
     ],
     [
@@ -57,37 +57,19 @@
         "16339",
         2,
         "My favorite team",
-        "American_football"
-    ],
-    [
-        "16339",
-        2,
-        "My favorite team",
-        "New_England"
-    ],
-    [
-        "16339",
-        2,
-        "My favorite team",
         "New_England_Patriots"
     ],
     [
         "16339",
-        4,
-        "my favorite team",
-        "Miami_Dolphins"
-    ],
-    [
-        "16339",
-        4,
-        "my favorite team",
-        "American_football"
-    ],
-    [
-        "16339",
-        4,
-        "my favorite team",
+        2,
+        "My favorite team",
         "New_England"
+    ],
+    [
+        "16339",
+        2,
+        "My favorite team",
+        "American_football"
     ],
     [
         "16339",
@@ -99,7 +81,25 @@
         "16339",
         4,
         "my favorite team",
+        "Miami_Dolphins"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
         "New_England_Patriots"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
+        "American_football"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
+        "New_England"
     ],
     [
         "1168",
@@ -129,12 +129,6 @@
         "7051",
         8,
         "my favorite character",
-        "Stewie_Griffin"
-    ],
-    [
-        "7051",
-        8,
-        "my favorite character",
         "Jony_Ive"
     ],
     [
@@ -142,6 +136,12 @@
         8,
         "my favorite character",
         "TBS_(U.S._TV_channel)"
+    ],
+    [
+        "7051",
+        8,
+        "my favorite character",
+        "Stewie_Griffin"
     ],
     [
         "1266",

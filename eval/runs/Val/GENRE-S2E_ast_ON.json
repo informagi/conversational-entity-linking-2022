@@ -1,20 +1,8 @@
 [
     [
-        "90",
-        0,
-        "my favorite sports",
-        "It_(novel)"
-    ],
-    [
         "733",
         0,
         "my favorite fast food places",
-        "McDonald's"
-    ],
-    [
-        "733",
-        4,
-        "our orders wrong",
         "McDonald's"
     ],
     [
@@ -27,30 +15,12 @@
         "1088",
         2,
         "my favorite movie",
-        "Robert_De_Niro"
-    ],
-    [
-        "1088",
-        2,
-        "my favorite movie",
-        "Casino_(film)"
-    ],
-    [
-        "1088",
-        6,
-        "my mother",
         "Casino_(film)"
     ],
     [
         "1876",
         0,
         "my least favorite sports",
-        "Baseball"
-    ],
-    [
-        "1876",
-        4,
-        "my attention",
         "Baseball"
     ],
     [
@@ -66,30 +36,6 @@
         "Singing"
     ],
     [
-        "5321",
-        4,
-        "my type of song",
-        "Music"
-    ],
-    [
-        "5321",
-        4,
-        "my type of song",
-        "Singing"
-    ],
-    [
-        "5746",
-        6,
-        "My Favourite song",
-        "Hi_(magazine)"
-    ],
-    [
-        "5746",
-        6,
-        "My Favourite song",
-        "Freddie_Mercury"
-    ],
-    [
         "6716",
         1,
         "my favorite genres",
@@ -102,46 +48,10 @@
         "Only_God_Knows_Why"
     ],
     [
-        "6974",
-        1,
-        "my favorite songs",
-        "Kid_Rock"
-    ],
-    [
-        "6974",
-        1,
-        "my favorite songs",
-        "Rock_music"
-    ],
-    [
         "7792",
         0,
         "my favorite drink",
         "Iced_tea"
-    ],
-    [
-        "7792",
-        4,
-        "my tea",
-        "Iced_tea"
-    ],
-    [
-        "8052",
-        9,
-        "my favorites",
-        "The_Simpsons_Movie"
-    ],
-    [
-        "8052",
-        9,
-        "my favorites",
-        "Stephen_King"
-    ],
-    [
-        "8611",
-        2,
-        "my exposure",
-        "United_States"
     ],
     [
         "9161",
@@ -162,58 +72,10 @@
         "Squidward_Tentacles"
     ],
     [
-        "11045",
-        3,
-        "My favourite team",
-        "Who_(magazine)"
-    ],
-    [
-        "12881",
-        9,
-        "my favorites",
-        "Mediterranean_cuisine"
-    ],
-    [
-        "12881",
-        9,
-        "my favorites",
-        "India"
-    ],
-    [
-        "14440",
-        3,
-        "My favorite",
-        "Eel"
-    ],
-    [
-        "14440",
-        3,
-        "My favorite",
-        "California"
-    ],
-    [
         "14743",
         0,
         "my favorite food",
         "Hamburger"
-    ],
-    [
-        "14805",
-        7,
-        "my go",
-        "BLT"
-    ],
-    [
-        "14805",
-        7,
-        "my go",
-        "Love"
-    ],
-    [
-        "14805",
-        7,
-        "my go",
-        "Bacon"
     ],
     [
         "16441",
@@ -228,70 +90,10 @@
         "Pizza"
     ],
     [
-        "16569",
-        2,
-        "my pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Pizza"
-    ],
-    [
-        "16569",
-        4,
-        "my own pizza",
-        "Domino's_Pizza"
-    ],
-    [
         "16856",
         0,
         "my favorite holiday",
         "Christmas"
-    ],
-    [
-        "16856",
-        4,
-        "my first Gameboy",
-        "Christmas"
-    ],
-    [
-        "17669",
-        5,
-        "my state",
-        "Texas"
-    ],
-    [
-        "18542",
-        9,
-        "my favorite shows",
-        "Gossip_Girl"
-    ],
-    [
-        "18542",
-        9,
-        "my favorite shows",
-        "Manhattan"
-    ],
-    [
-        "19782",
-        3,
-        "my hair deep purple",
-        "Yes_(band)"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
-        "Days_of_Our_Lives"
-    ],
-    [
-        "19877",
-        3,
-        "My favorite",
-        "Ferrari"
     ],
     [
         "19877",
@@ -303,12 +105,6 @@
         "20004",
         1,
         "my favorite band",
-        "U2"
-    ],
-    [
-        "20004",
-        3,
-        "My favorite",
         "U2"
     ],
     [
@@ -333,37 +129,19 @@
         "21448",
         5,
         "My other favorite color",
-        "It_(novel)"
-    ],
-    [
-        "21448",
-        5,
-        "My other favorite color",
         "My_Eyes_(Travis_song)"
     ],
     [
         "21448",
         5,
         "My other favorite color",
-        "I_Like_(Keri_Hilson_song)"
+        "It_(novel)"
     ],
     [
         "22127",
         5,
         "my favourite song",
         "Thriller_(song)"
-    ],
-    [
-        "22127",
-        5,
-        "my favourite song",
-        "Bon_Scott"
-    ],
-    [
-        "22255",
-        1,
-        "our blood",
-        "Republic_of_Ireland"
     ],
     [
         "90",
@@ -1046,7 +824,7 @@
     [
         "19782",
         7,
-        "Days of Our Lives",
+        "The Days of Our Lives",
         "Days_of_Our_Lives"
     ],
     [

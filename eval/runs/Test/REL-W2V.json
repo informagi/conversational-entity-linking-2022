@@ -15,6 +15,12 @@
         "2478",
         4,
         "my absolute favorite",
+        "Tom_Cruise"
+    ],
+    [
+        "2478",
+        4,
+        "my absolute favorite",
         "Cartoon_Network"
     ],
     [
@@ -22,12 +28,6 @@
         4,
         "my absolute favorite",
         "Tom_and_Jerry"
-    ],
-    [
-        "2478",
-        4,
-        "my absolute favorite",
-        "Tom_Cruise"
     ],
     [
         "3170",
@@ -117,6 +117,12 @@
         "11384",
         6,
         "my favorites",
+        "Angelo_Musi"
+    ],
+    [
+        "11384",
+        6,
+        "my favorites",
         "Korn"
     ],
     [
@@ -124,12 +130,6 @@
         6,
         "my favorites",
         "Attack_of_the_Killer_B's"
-    ],
-    [
-        "11384",
-        6,
-        "my favorites",
-        "Angelo_Musi"
     ],
     [
         "13086",
@@ -159,13 +159,13 @@
         "14373",
         7,
         "My family vehicle",
-        "Lexus"
+        "Michigan"
     ],
     [
         "14373",
         7,
         "My family vehicle",
-        "Michigan"
+        "Lexus"
     ],
     [
         "14373",
@@ -195,13 +195,13 @@
         "19684",
         0,
         "my dream car",
-        "Ferrari"
+        "Lesbian"
     ],
     [
         "19684",
         0,
         "my dream car",
-        "Lesbian"
+        "Ferrari"
     ],
     [
         "20223",
@@ -237,18 +237,18 @@
         "22282",
         4,
         "My favorite",
-        "J._K._Rowling"
-    ],
-    [
-        "22282",
-        4,
-        "My favorite",
         "Severus_Snape"
     ],
     [
         "22282",
         4,
         "My favorite",
+        "J._K._Rowling"
+    ],
+    [
+        "22282",
+        4,
+        "My favorite",
         "Harry_Potter"
     ],
     [
@@ -261,7 +261,7 @@
         "22282",
         6,
         "my favorite",
-        "Richard_Harris"
+        "Alan_Rickman"
     ],
     [
         "22282",
@@ -273,7 +273,7 @@
         "22282",
         6,
         "my favorite",
-        "Alan_Rickman"
+        "Richard_Harris"
     ],
     [
         "510",
@@ -488,7 +488,7 @@
     [
         "7500",
         2,
-        "Chemical Brothers",
+        "The Chemical Brothers",
         "The_Chemical_Brothers"
     ],
     [

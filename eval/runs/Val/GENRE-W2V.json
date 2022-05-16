@@ -117,13 +117,13 @@
         "5746",
         6,
         "My Favourite song",
-        "Buckingham_Palace"
+        "Mick_Jagger"
     ],
     [
         "5746",
         6,
         "My Favourite song",
-        "Mick_Jagger"
+        "Buckingham_Palace"
     ],
     [
         "5746",
@@ -135,13 +135,13 @@
         "5746",
         6,
         "My Favourite song",
-        "Freddie_Mercury"
+        "Charles,_Prince_of_Wales"
     ],
     [
         "5746",
         6,
         "My Favourite song",
-        "Charles,_Prince_of_Wales"
+        "Freddie_Mercury"
     ],
     [
         "5799",
@@ -165,13 +165,13 @@
         "6974",
         1,
         "my favorite songs",
-        "Kid_Rock"
+        "Rock_music"
     ],
     [
         "6974",
         1,
         "my favorite songs",
-        "Rock_music"
+        "Kid_Rock"
     ],
     [
         "7792",
@@ -207,13 +207,13 @@
         "9161",
         0,
         "my favorite animal",
-        "Alpaca"
+        "Washington_(state)"
     ],
     [
         "9161",
         0,
         "my favorite animal",
-        "Washington_(state)"
+        "Alpaca"
     ],
     [
         "9217",
@@ -333,13 +333,13 @@
         "18542",
         9,
         "my favorite shows",
-        "Gossip_Girl"
+        "Yes_(band)"
     ],
     [
         "18542",
         9,
         "my favorite shows",
-        "Yes_(band)"
+        "Gossip_Girl"
     ],
     [
         "18542",
@@ -356,13 +356,19 @@
     [
         "19782",
         3,
-        "my hair deep purple",
+        "my gray hairs",
         "Yes_(band)"
     ],
     [
         "19782",
         3,
-        "my gray hairs",
+        "my hair deep purple",
+        "Yes_(band)"
+    ],
+    [
+        "19782",
+        7,
+        "My soap opera of choice",
         "Yes_(band)"
     ],
     [
@@ -370,12 +376,6 @@
         7,
         "My soap opera of choice",
         "Days_of_Our_Lives"
-    ],
-    [
-        "19782",
-        7,
-        "My soap opera of choice",
-        "Yes_(band)"
     ],
     [
         "19877",
@@ -387,13 +387,13 @@
         "19877",
         3,
         "My favorite",
-        "Ferrari"
+        "Dodge"
     ],
     [
         "19877",
         3,
         "My favorite",
-        "Dodge"
+        "Ferrari"
     ],
     [
         "20004",
@@ -429,12 +429,6 @@
         "21448",
         5,
         "My other favorite color",
-        "It_(novel)"
-    ],
-    [
-        "21448",
-        5,
-        "My other favorite color",
         "My_Eyes_(Travis_song)"
     ],
     [
@@ -444,10 +438,16 @@
         "I_Like_(Keri_Hilson_song)"
     ],
     [
+        "21448",
+        5,
+        "My other favorite color",
+        "It_(novel)"
+    ],
+    [
         "22127",
         5,
         "my favourite song",
-        "Thriller_(song)"
+        "Bon_Scott"
     ],
     [
         "22127",
@@ -459,7 +459,7 @@
         "22127",
         5,
         "my favourite song",
-        "Bon_Scott"
+        "Thriller_(song)"
     ],
     [
         "22255",
@@ -1154,7 +1154,7 @@
     [
         "19782",
         7,
-        "Days of Our Lives",
+        "The Days of Our Lives",
         "Days_of_Our_Lives"
     ],
     [

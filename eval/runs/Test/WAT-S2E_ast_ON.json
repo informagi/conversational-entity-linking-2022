@@ -147,6 +147,12 @@
         "14767",
         0,
         "my favorite band",
+        "The_Band"
+    ],
+    [
+        "14767",
+        0,
+        "my favorite band",
         "The_Star-Spangled_Banner"
     ],
     [
@@ -183,13 +189,13 @@
         "20223",
         1,
         "my favorite",
-        "Capellini"
+        "Pasta"
     ],
     [
         "20223",
         1,
         "my favorite",
-        "Pasta"
+        "Capellini"
     ],
     [
         "20354",
@@ -248,7 +254,7 @@
     [
         "646",
         0,
-        "type",
+        "a type",
         "Granite"
     ],
     [
@@ -320,7 +326,7 @@
     [
         "936",
         0,
-        "pug",
+        "a pug",
         "Pug"
     ],
     [
@@ -338,7 +344,7 @@
     [
         "936",
         4,
-        "chewing",
+        "the chewing",
         "Mastication"
     ],
     [
@@ -380,7 +386,7 @@
     [
         "978",
         2,
-        "good book",
+        "the good book",
         "The_Hitchhiker's_Guide_to_the_Galaxy"
     ],
     [
@@ -398,7 +404,7 @@
     [
         "978",
         4,
-        "interpretation",
+        "an interpretation",
         "Interpretation_(logic)"
     ],
     [
@@ -416,7 +422,7 @@
     [
         "978",
         8,
-        "disagreement",
+        "the disagreement",
         "Controversy"
     ],
     [
@@ -458,7 +464,7 @@
     [
         "1889",
         4,
-        "kid",
+        "a kid",
         "Kids_(film)"
     ],
     [
@@ -482,7 +488,7 @@
     [
         "1889",
         6,
-        "conspiracy",
+        "a conspiracy",
         "Moon_landing_conspiracy_theories"
     ],
     [
@@ -638,7 +644,7 @@
     [
         "4266",
         8,
-        "laugh",
+        "a laugh",
         "Laughter"
     ],
     [
@@ -650,7 +656,7 @@
     [
         "4945",
         2,
-        "dew",
+        "the dew",
         "Dew"
     ],
     [
@@ -734,7 +740,7 @@
     [
         "5096",
         3,
-        "weather",
+        "the weather",
         "Weather"
     ],
     [
@@ -764,13 +770,13 @@
     [
         "5151",
         6,
-        "sunflower",
+        "a sunflower",
         "Helianthus"
     ],
     [
         "5986",
         0,
-        "hybrid vehicle",
+        "a hybrid vehicle",
         "Hybrid_vehicle"
     ],
     [
@@ -788,7 +794,7 @@
     [
         "6340",
         2,
-        "romance",
+        "the romance",
         "Romance_(love)"
     ],
     [
@@ -848,7 +854,7 @@
     [
         "6869",
         6,
-        "electronic keyboards",
+        "the electronic keyboards",
         "Electronic_keyboard"
     ],
     [
@@ -872,7 +878,7 @@
     [
         "6949",
         2,
-        "fan",
+        "a fan",
         "Hand_fan"
     ],
     [
@@ -956,13 +962,13 @@
     [
         "7405",
         6,
-        "flavor",
+        "the flavor",
         "Seasoning"
     ],
     [
         "7405",
         6,
-        "seafood",
+        "the seafood",
         "Seafood"
     ],
     [
@@ -974,7 +980,7 @@
     [
         "7500",
         2,
-        "Chemical Brothers",
+        "The Chemical Brothers",
         "The_Chemical_Brothers"
     ],
     [
@@ -986,7 +992,7 @@
     [
         "7500",
         6,
-        "EDM festival",
+        "an EDM festival",
         "Electronic_dance_music"
     ],
     [
@@ -1022,7 +1028,7 @@
     [
         "8347",
         0,
-        "boxer",
+        "a boxer",
         "Boxing"
     ],
     [
@@ -1052,7 +1058,7 @@
     [
         "8415",
         0,
-        "cancer survivor",
+        "a cancer survivor",
         "Cancer_survivor"
     ],
     [
@@ -1112,13 +1118,13 @@
     [
         "8534",
         2,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
         "8534",
         4,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
@@ -1130,7 +1136,7 @@
     [
         "8670",
         0,
-        "yoga instructor",
+        "a yoga instructor",
         "Yoga"
     ],
     [
@@ -1166,7 +1172,7 @@
     [
         "8670",
         6,
-        "physical exercise",
+        "the physical exercise",
         "Physical_exercise"
     ],
     [
@@ -1220,7 +1226,7 @@
     [
         "9898",
         2,
-        "show",
+        "the show",
         "The_X-Files"
     ],
     [
@@ -1232,7 +1238,7 @@
     [
         "9898",
         2,
-        "lesson",
+        "a lesson",
         "Ethics"
     ],
     [
@@ -1286,7 +1292,7 @@
     [
         "10947",
         2,
-        "singer",
+        "a singer",
         "Singing"
     ],
     [
@@ -1316,13 +1322,13 @@
     [
         "11216",
         0,
-        "Beastie Boys",
+        "the Beastie Boys",
         "Beastie_Boys"
     ],
     [
         "11216",
         2,
-        "song",
+        "the song",
         "The_Breakfast_Club"
     ],
     [
@@ -1382,7 +1388,7 @@
     [
         "11384",
         8,
-        "Heavy Metal Music",
+        "the Heavy Metal Music",
         "Heavy_metal_music"
     ],
     [
@@ -1430,7 +1436,7 @@
     [
         "13086",
         6,
-        "burger king",
+        "a burger king",
         "Burger_King"
     ],
     [
@@ -1454,7 +1460,7 @@
     [
         "14373",
         1,
-        "auto industry",
+        "the auto industry",
         "Automotive_industry"
     ],
     [
@@ -1496,13 +1502,13 @@
     [
         "14767",
         0,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
         "14767",
         0,
-        "Story",
+        "The Story",
         "The_Star-Spangled_Banner"
     ],
     [
@@ -1514,7 +1520,7 @@
     [
         "14767",
         4,
-        "mainstream",
+        "the mainstream",
         "Mainstream"
     ],
     [
@@ -1574,7 +1580,7 @@
     [
         "16678",
         7,
-        "symphony",
+        "a symphony",
         "Symphony_No._9_(Schubert)"
     ],
     [
@@ -1628,7 +1634,7 @@
     [
         "17320",
         2,
-        "bit",
+        "a bit",
         "Bit_(horse)"
     ],
     [
@@ -1664,7 +1670,7 @@
     [
         "18415",
         3,
-        "movie",
+        "the movie",
         "E.T._the_Extra-Terrestrial"
     ],
     [
@@ -1724,7 +1730,7 @@
     [
         "18774",
         7,
-        "show",
+        "the show",
         "The_Show_(Girls_Aloud_song)"
     ],
     [
@@ -1856,7 +1862,7 @@
     [
         "19544",
         5,
-        "shade",
+        "a shade",
         "Shading"
     ],
     [
@@ -1880,13 +1886,13 @@
     [
         "19544",
         7,
-        "shade",
+        "a shade",
         "Tints_and_shades"
     ],
     [
         "19684",
         0,
-        "ferrari",
+        "a ferrari",
         "Ferrari_308_GTB/GTS"
     ],
     [
@@ -1904,7 +1910,7 @@
     [
         "19684",
         6,
-        "lot",
+        "a lot",
         "Land_lot"
     ],
     [
@@ -1928,7 +1934,7 @@
     [
         "20223",
         5,
-        "extrusion process",
+        "an extrusion process",
         "Extrusion"
     ],
     [
@@ -1988,7 +1994,7 @@
     [
         "20950",
         0,
-        "sun",
+        "the sun",
         "Sun"
     ],
     [
@@ -2084,7 +2090,7 @@
     [
         "21065",
         6,
-        "kid",
+        "a kid",
         "Kids_(film)"
     ],
     [
@@ -2096,7 +2102,7 @@
     [
         "21099",
         0,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
@@ -2120,7 +2126,7 @@
     [
         "21099",
         8,
-        "last album",
+        "the last album",
         "Wild_Mood_Swings"
     ],
     [
@@ -2132,7 +2138,7 @@
     [
         "21099",
         8,
-        "band",
+        "the band",
         "The_Band"
     ],
     [
@@ -2162,7 +2168,7 @@
     [
         "21325",
         6,
-        "Halloween movies",
+        "the Halloween movies",
         "Halloween_(franchise)"
     ],
     [
@@ -2222,7 +2228,7 @@
     [
         "22038",
         4,
-        "first album",
+        "the first album",
         "Led_Zeppelin_(album)"
     ],
     [
@@ -2240,7 +2246,7 @@
     [
         "22038",
         4,
-        "rest",
+        "the rest",
         "The_Rest"
     ],
     [
@@ -2276,7 +2282,7 @@
     [
         "22282",
         0,
-        "modern history",
+        "the modern history",
         "Modern_history"
     ],
     [
@@ -2300,13 +2306,13 @@
     [
         "22282",
         2,
-        "characters",
+        "the characters",
         "Teenage_Mutant_Ninja_Turtles"
     ],
     [
         "22282",
         2,
-        "story",
+        "the story",
         "Lord_of_the_Flies"
     ],
     [
@@ -2324,13 +2330,13 @@
     [
         "22282",
         4,
-        "series",
+        "the series",
         "The_Twilight_Saga_(film_series)"
     ],
     [
         "22282",
         4,
-        "deathly hallows",
+        "the deathly hallows",
         "Harry_Potter_and_the_Deathly_Hallows"
     ],
     [
@@ -2354,7 +2360,7 @@
     [
         "22282",
         6,
-        "last movie",
+        "the last movie",
         "Harry_Potter_and_the_Order_of_the_Phoenix_(film)"
     ],
     [
@@ -2366,13 +2372,13 @@
     [
         "22282",
         6,
-        "one",
+        "the one",
         "The_Matrix"
     ],
     [
         "22282",
         8,
-        "novel",
+        "the novel",
         "Novel"
     ]
 ]

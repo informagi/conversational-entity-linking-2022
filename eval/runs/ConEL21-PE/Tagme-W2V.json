@@ -3,13 +3,13 @@
         "1191",
         5,
         "my passion",
-        "White_Snake_(album)"
+        "Iggy_Pop"
     ],
     [
         "1191",
         5,
         "my passion",
-        "Iggy_Pop"
+        "White_Snake_(album)"
     ],
     [
         "16840",
@@ -20,13 +20,7 @@
     [
         "16840",
         4,
-        "my own passion",
-        "PerSay"
-    ],
-    [
-        "16840",
-        4,
-        "my own passion",
+        "my thoughts",
         "YouTube"
     ],
     [
@@ -38,8 +32,14 @@
     [
         "16840",
         4,
-        "my thoughts",
+        "my own passion",
         "YouTube"
+    ],
+    [
+        "16840",
+        4,
+        "my own passion",
+        "PerSay"
     ],
     [
         "16840",
@@ -51,13 +51,13 @@
         "16840",
         6,
         "my passion",
-        "PerSay"
+        "YouTube"
     ],
     [
         "16840",
         6,
         "my passion",
-        "YouTube"
+        "PerSay"
     ],
     [
         "5336",
@@ -75,7 +75,7 @@
         "1383",
         0,
         "my favorite",
-        "Mediterranean_cuisine"
+        "Love_Stuff"
     ],
     [
         "1383",
@@ -87,19 +87,13 @@
         "1383",
         0,
         "my favorite",
-        "Love_Stuff"
+        "Mediterranean_cuisine"
     ],
     [
         "15621",
         0,
         "my favorite snack",
         "Cheetos"
-    ],
-    [
-        "1161",
-        2,
-        "my favorites",
-        "Ice_cream_cake"
     ],
     [
         "1161",
@@ -114,10 +108,10 @@
         "Ice_Cream_(Raekwon_song)"
     ],
     [
-        "7957",
-        3,
-        "my favorite flavor",
-        "Lactose_intolerance"
+        "1161",
+        2,
+        "my favorites",
+        "Ice_cream_cake"
     ],
     [
         "7957",
@@ -126,16 +120,22 @@
         "Oreo"
     ],
     [
-        "873",
-        2,
-        "My favorite",
-        "I_Love_to_Eat"
+        "7957",
+        3,
+        "my favorite flavor",
+        "Lactose_intolerance"
     ],
     [
         "873",
         2,
         "My favorite",
         "Sushi"
+    ],
+    [
+        "873",
+        2,
+        "My favorite",
+        "I_Love_to_Eat"
     ],
     [
         "17206",
@@ -147,37 +147,19 @@
         "16339",
         2,
         "My favorite team",
-        "American_Pastime_(film)"
-    ],
-    [
-        "16339",
-        2,
-        "My favorite team",
-        "Football"
-    ],
-    [
-        "16339",
-        2,
-        "My favorite team",
         "New_England_Patriots"
     ],
     [
         "16339",
-        4,
-        "my favorite team",
+        2,
+        "My favorite team",
         "Football"
     ],
     [
         "16339",
-        4,
-        "my favorite team",
-        "Miami_Dolphins"
-    ],
-    [
-        "16339",
-        4,
-        "my favorite team",
-        "Growing_Up_(Singaporean_TV_series)"
+        2,
+        "My favorite team",
+        "American_Pastime_(film)"
     ],
     [
         "16339",
@@ -189,7 +171,19 @@
         "16339",
         4,
         "my favorite team",
+        "American_Pastime_(film)"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
         "Quarterback"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
+        "Miami_Dolphins"
     ],
     [
         "16339",
@@ -201,7 +195,13 @@
         "16339",
         4,
         "my favorite team",
-        "American_Pastime_(film)"
+        "Football"
+    ],
+    [
+        "16339",
+        4,
+        "my favorite team",
+        "Growing_Up_(Singaporean_TV_series)"
     ],
     [
         "1168",
@@ -231,13 +231,13 @@
         "4371",
         0,
         "my favorite color",
-        "Yellow"
+        "How_About_You?"
     ],
     [
         "4371",
         0,
         "my favorite color",
-        "How_About_You?"
+        "Yellow"
     ],
     [
         "12407",
@@ -261,13 +261,13 @@
         "7051",
         8,
         "my favorite character",
-        "Stewie_Griffin"
+        "Adult_Swim"
     ],
     [
         "7051",
         8,
         "my favorite character",
-        "Adult_Swim"
+        "TBS_(U.S._TV_channel)"
     ],
     [
         "7051",
@@ -279,7 +279,7 @@
         "7051",
         8,
         "my favorite character",
-        "TBS_(U.S._TV_channel)"
+        "Stewie_Griffin"
     ],
     [
         "1266",

@@ -45,7 +45,7 @@
         "3490",
         1,
         "my first choice",
-        "How_(TV_series)"
+        "Led_Zeppelin"
     ],
     [
         "3490",
@@ -57,7 +57,7 @@
         "3490",
         1,
         "my first choice",
-        "Led_Zeppelin"
+        "How_(TV_series)"
     ],
     [
         "4266",
@@ -93,7 +93,7 @@
         "6869",
         8,
         "my favorite piano player",
-        "How_(TV_series)"
+        "C_(musical_note)"
     ],
     [
         "6869",
@@ -111,7 +111,7 @@
         "6869",
         8,
         "my favorite piano player",
-        "C_(musical_note)"
+        "How_(TV_series)"
     ],
     [
         "6949",
@@ -171,13 +171,7 @@
         "11384",
         6,
         "my favorites",
-        "Anthrax_(American_band)"
-    ],
-    [
-        "11384",
-        6,
-        "my favorites",
-        "Korn"
+        "Heavy_metal_music"
     ],
     [
         "11384",
@@ -189,13 +183,13 @@
         "11384",
         6,
         "my favorites",
-        "Heavy_metal_music"
+        "Anthrax_(American_band)"
     ],
     [
-        "13669",
-        5,
-        "My favorite game",
-        "Who_(magazine)"
+        "11384",
+        6,
+        "my favorites",
+        "Korn"
     ],
     [
         "13669",
@@ -204,16 +198,10 @@
         "Diablo_(video_game)"
     ],
     [
-        "14373",
-        7,
-        "My family vehicle",
-        "Lexus"
-    ],
-    [
-        "14373",
-        7,
-        "My family vehicle",
-        "Germany"
+        "13669",
+        5,
+        "My favorite game",
+        "Who_(magazine)"
     ],
     [
         "14373",
@@ -225,7 +213,19 @@
         "14373",
         7,
         "My family vehicle",
+        "Lexus"
+    ],
+    [
+        "14373",
+        7,
+        "My family vehicle",
         "Chevrolet_Tahoe"
+    ],
+    [
+        "14373",
+        7,
+        "My family vehicle",
+        "Germany"
     ],
     [
         "14767",
@@ -309,13 +309,13 @@
         "21099",
         6,
         "my favorite song",
-        "Fade_to_Black_(song)"
+        "Metallica"
     ],
     [
         "21099",
         6,
         "my favorite song",
-        "Metallica"
+        "Fade_to_Black_(song)"
     ],
     [
         "21325",
@@ -333,18 +333,12 @@
         "22038",
         0,
         "my favorite bands",
-        "One_(U2_song)"
+        "Nickelback"
     ],
     [
         "22038",
         0,
         "my favorite bands",
-        "Nickelback"
-    ],
-    [
-        "22038",
-        2,
-        "my absolute",
         "One_(U2_song)"
     ],
     [
@@ -360,6 +354,12 @@
         "Rush_(band)"
     ],
     [
+        "22038",
+        2,
+        "my absolute",
+        "One_(U2_song)"
+    ],
+    [
         "22282",
         4,
         "My favorite",
@@ -376,18 +376,18 @@
         6,
         "my favorite",
         "Severus_Snape"
-    ],
-    [
-        "22282",
-        6,
-        "my favorite",
-        "Harry_Potter"
     ],
     [
         "22282",
         6,
         "my favorite",
         "Albus_Dumbledore"
+    ],
+    [
+        "22282",
+        6,
+        "my favorite",
+        "Harry_Potter"
     ],
     [
         "510",
@@ -626,7 +626,7 @@
     [
         "7500",
         2,
-        "Chemical Brothers",
+        "The Chemical Brothers",
         "The_Chemical_Brothers"
     ],
     [
@@ -806,7 +806,7 @@
     [
         "14767",
         0,
-        "Story So Far",
+        "The Story So Far",
         "The_Story_So_Far_(band)"
     ],
     [
@@ -926,7 +926,7 @@
     [
         "18415",
         5,
-        "Rock",
+        "The Rock",
         "Dwayne_Johnson"
     ],
     [
@@ -938,7 +938,7 @@
     [
         "18415",
         9,
-        "Fifth Element",
+        "The Fifth Element",
         "The_Fifth_Element"
     ],
     [

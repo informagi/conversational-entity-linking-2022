@@ -9,7 +9,7 @@
         "1191",
         5,
         "my passion",
-        "Music"
+        "Passion_(emotion)"
     ],
     [
         "17985",
@@ -21,13 +21,7 @@
         "16840",
         6,
         "my passion",
-        "Brand"
-    ],
-    [
-        "16840",
-        6,
-        "my passion",
-        "Cosmetic_industry"
+        "Passion_(emotion)"
     ],
     [
         "15141",
@@ -39,7 +33,7 @@
         "1383",
         0,
         "my favorite",
-        "Mediterranean_cuisine"
+        "Mediterranean_Sea"
     ],
     [
         "15621",
@@ -62,14 +56,14 @@
     [
         "2573",
         1,
-        "my favorite",
-        "Vanilla"
+        "my second choice",
+        "Strawberry"
     ],
     [
         "2573",
         1,
-        "my second choice",
-        "Fragaria"
+        "my favorite",
+        "Vanilla"
     ],
     [
         "13604",
@@ -78,10 +72,10 @@
         "Pizza"
     ],
     [
-        "873",
-        2,
-        "My favorite",
-        "White_rice"
+        "22270",
+        0,
+        "my favorite pasttimes",
+        "Skiing"
     ],
     [
         "17206",
@@ -108,22 +102,10 @@
         "Purple"
     ],
     [
-        "1168",
-        6,
-        "My favorite",
-        "Fettuccine_Alfredo"
-    ],
-    [
         "17067",
         0,
         "my sisters favorite actors",
         "Channing_Tatum"
-    ],
-    [
-        "4371",
-        0,
-        "my favorite color",
-        "Yellow"
     ],
     [
         "12407",
@@ -136,6 +118,12 @@
         0,
         "My fav band",
         "Pearl_Jam"
+    ],
+    [
+        "7051",
+        0,
+        "my favorites",
+        "All_That"
     ],
     [
         "7051",
@@ -153,7 +141,7 @@
         "1266",
         6,
         "my second favorite type of burger meat",
-        "Turkey_as_food"
+        "Hamburger"
     ],
     [
         "2040",
@@ -180,12 +168,6 @@
         "Droopy"
     ],
     [
-        "2040",
-        6,
-        "my Beagle",
-        "Beagle"
-    ],
-    [
         "10060",
         0,
         "Blue",
@@ -200,32 +182,26 @@
     [
         "10060",
         2,
-        "ROYGBIV",
-        "ROYGBIV"
-    ],
-    [
-        "10060",
-        2,
-        "blue",
-        "Blue"
-    ],
-    [
-        "10060",
-        2,
         "favorite color",
         "Color_preferences"
     ],
     [
         "10060",
         2,
-        "color",
-        "Color"
+        "the color",
+        "Orange_(colour)"
     ],
     [
         "10060",
         4,
         "color",
         "Color"
+    ],
+    [
+        "10060",
+        4,
+        "illusions",
+        "Illusion"
     ],
     [
         "10060",
@@ -242,38 +218,14 @@
     [
         "10060",
         4,
-        "eyes",
-        "Eye"
-    ],
-    [
-        "10060",
-        4,
-        "light",
-        "Light"
+        "process",
+        "Biological_process"
     ],
     [
         "10060",
         6,
-        "sky",
+        "the sky",
         "Sky"
-    ],
-    [
-        "10060",
-        6,
-        "ocean",
-        "Ocean"
-    ],
-    [
-        "10060",
-        6,
-        "school",
-        "School"
-    ],
-    [
-        "10060",
-        6,
-        "lol",
-        "LOL"
     ],
     [
         "1191",
@@ -290,8 +242,20 @@
     [
         "1191",
         3,
+        "Old school",
+        "Old-school_hip_hop"
+    ],
+    [
+        "1191",
+        3,
         "Iggy Pop",
         "Iggy_Pop"
+    ],
+    [
+        "1191",
+        3,
+        "the same time",
+        "Threesome"
     ],
     [
         "1191",
@@ -302,8 +266,8 @@
     [
         "1191",
         5,
-        "White Snake",
-        "White_Snake_(album)"
+        "Stewert",
+        "Rod_Stewart"
     ],
     [
         "1191",
@@ -314,7 +278,7 @@
     [
         "1191",
         7,
-        "Misfit's",
+        "Misfit",
         "Misfits_(band)"
     ],
     [
@@ -336,6 +300,12 @@
         "Music"
     ],
     [
+        "1191",
+        7,
+        "a similar style",
+        "Limited_animation"
+    ],
+    [
         "17985",
         0,
         "Blue",
@@ -350,50 +320,14 @@
     [
         "17985",
         2,
-        "primary color",
+        "a primary color",
         "Primary_color"
-    ],
-    [
-        "17985",
-        4,
-        "primary colors",
-        "Primary_color"
-    ],
-    [
-        "17985",
-        6,
-        "red",
-        "Red"
-    ],
-    [
-        "17985",
-        6,
-        "yellow",
-        "Yellow"
     ],
     [
         "17985",
         6,
         "orange",
         "Orange_(fruit)"
-    ],
-    [
-        "17985",
-        6,
-        "blue",
-        "Blue"
-    ],
-    [
-        "17985",
-        6,
-        "green",
-        "Green"
-    ],
-    [
-        "17985",
-        6,
-        "purple",
-        "Purple"
     ],
     [
         "16840",
@@ -403,15 +337,15 @@
     ],
     [
         "16840",
-        2,
-        "brand",
-        "Brand"
+        4,
+        "a makeup",
+        "Cosmetics"
     ],
     [
         "16840",
-        2,
-        "youtube",
-        "YouTube"
+        4,
+        "reviewer",
+        "Review"
     ],
     [
         "16840",
@@ -422,8 +356,32 @@
     [
         "16840",
         4,
-        "cosmetic industry",
-        "Cosmetic_industry"
+        "Im",
+        "I'm_Tryna"
+    ],
+    [
+        "16840",
+        4,
+        "a social impact",
+        "Internet"
+    ],
+    [
+        "16840",
+        4,
+        "the cosmetic industry",
+        "Cosmetics"
+    ],
+    [
+        "16840",
+        6,
+        "Im",
+        "Complex_number"
+    ],
+    [
+        "16840",
+        6,
+        "cost",
+        "Cost"
     ],
     [
         "16840",
@@ -448,18 +406,6 @@
         2,
         "crust",
         "Crust_(geology)"
-    ],
-    [
-        "15141",
-        2,
-        "stuffed crust",
-        "Pizza"
-    ],
-    [
-        "15141",
-        2,
-        "New York",
-        "New_York_(state)"
     ],
     [
         "15141",
@@ -537,7 +483,13 @@
         "5336",
         2,
         "M&Ms",
-        "M&amp;M's"
+        "M&M's"
+    ],
+    [
+        "5336",
+        2,
+        "chocolate",
+        "Chocolate"
     ],
     [
         "5336",
@@ -546,16 +498,16 @@
         "Peanut"
     ],
     [
-        "5336",
-        6,
-        "Reese's Pieces",
-        "Reese's_Pieces"
+        "1383",
+        0,
+        "Mediterranean",
+        "Mediterranean_Sea"
     ],
     [
         "1383",
         0,
-        "Mediterranean cuisine",
-        "Mediterranean_cuisine"
+        "stuff",
+        "Stuffing"
     ],
     [
         "1383",
@@ -572,14 +524,14 @@
     [
         "1383",
         2,
-        "Mediterranean cuisine",
-        "Mediterranean_cuisine"
+        "Mediterranean",
+        "Mediterranean_Sea"
     ],
     [
         "1383",
         4,
         "sense",
-        "Euclidean_vector"
+        "Sense"
     ],
     [
         "1383",
@@ -596,14 +548,14 @@
     [
         "1383",
         6,
-        "gyro meat",
-        "Gyro_(food)"
+        "meat",
+        "Meat"
     ],
     [
         "1383",
         6,
-        "la",
-        "Solf\u00e8ge"
+        "lamb",
+        "Lamb_and_mutton"
     ],
     [
         "15621",
@@ -624,6 +576,18 @@
         "Cheetos"
     ],
     [
+        "15621",
+        4,
+        "hot cheetos",
+        "Cheetos"
+    ],
+    [
+        "15621",
+        6,
+        "sound",
+        "Sound"
+    ],
+    [
         "1161",
         0,
         "Ice cream",
@@ -632,14 +596,14 @@
     [
         "1161",
         0,
-        "culinary",
-        "Culinary_arts"
+        "the invention",
+        "Invention"
     ],
     [
         "1161",
         0,
-        "sliced bread",
-        "Sliced_bread"
+        "bread",
+        "Bread"
     ],
     [
         "1161",
@@ -651,7 +615,7 @@
         "1161",
         2,
         "cookies",
-        "HTTP_cookie"
+        "Cookie"
     ],
     [
         "1161",
@@ -661,9 +625,15 @@
     ],
     [
         "1161",
+        2,
+        "Carvel",
+        "Carvel_(restaurant)"
+    ],
+    [
+        "1161",
         4,
-        "it",
-        "Italian_language"
+        "their own style",
+        "Modern_architecture"
     ],
     [
         "1161",
@@ -680,14 +650,8 @@
     [
         "1161",
         6,
-        "frozen",
-        "Frozen_food"
-    ],
-    [
-        "1161",
-        6,
-        "yogurt",
-        "Yogurt"
+        "frozen yogurt",
+        "Frozen_yogurt"
     ],
     [
         "1161",
@@ -698,8 +662,8 @@
     [
         "1161",
         6,
-        "highschool",
-        "Secondary_school"
+        "heaven",
+        "Heaven"
     ],
     [
         "1161",
@@ -722,14 +686,8 @@
     [
         "7957",
         3,
-        "true",
-        "Truth"
-    ],
-    [
-        "7957",
-        3,
-        "flavor",
-        "Flavor"
+        "medical conditions",
+        "Disease"
     ],
     [
         "7957",
@@ -741,7 +699,13 @@
         "7957",
         5,
         "lactose",
-        "Lactose_intolerance"
+        "Lactose"
+    ],
+    [
+        "7957",
+        5,
+        "taste",
+        "Taste"
     ],
     [
         "7957",
@@ -764,14 +728,8 @@
     [
         "7957",
         9,
-        "organic",
-        "Organic_compound"
-    ],
-    [
-        "7957",
-        9,
-        "molecule",
-        "Molecule"
+        "an organic molecule",
+        "Glycoside"
     ],
     [
         "7957",
@@ -795,13 +753,13 @@
         "2573",
         1,
         "Strawberry",
-        "Fragaria"
+        "Strawberry"
     ],
     [
         "2573",
         3,
         "cookies",
-        "HTTP_cookie"
+        "Cookie"
     ],
     [
         "2573",
@@ -817,21 +775,15 @@
     ],
     [
         "2573",
-        5,
-        "mint chocolate chip",
-        "Mint_chocolate_chip"
+        7,
+        "A&W",
+        "A&W_Restaurants"
     ],
     [
         "2573",
         7,
-        "A&W",
-        "A&amp;W_Restaurants"
-    ],
-    [
-        "2573",
-        9,
-        "lol",
-        "LOL"
+        "a root beer float",
+        "Ice_cream_float"
     ],
     [
         "13604",
@@ -865,21 +817,9 @@
     ],
     [
         "13604",
-        4,
-        "pepperoni",
-        "Pepperoni"
-    ],
-    [
-        "13604",
         6,
         "sense",
         "Sense"
-    ],
-    [
-        "13604",
-        8,
-        "Italy",
-        "Italy"
     ],
     [
         "13604",
@@ -901,21 +841,21 @@
     ],
     [
         "873",
-        2,
-        "white rice",
-        "White_rice"
+        4,
+        "the sticky rice",
+        "Glutinous_rice"
     ],
     [
         "873",
         4,
-        "rice",
-        "Rice"
+        "a special rice",
+        "Sake"
     ],
     [
         "873",
-        4,
-        "rice vinegar",
-        "Vinegar"
+        6,
+        "grass seed",
+        "Lawn"
     ],
     [
         "873",
@@ -926,20 +866,14 @@
     [
         "873",
         6,
-        "fish",
-        "Fish"
+        "the raw fish",
+        "Hoe_(dish)"
     ],
     [
         "22270",
         0,
-        "Ski",
-        "Ski"
-    ],
-    [
-        "22270",
-        2,
-        "skiis",
-        "Cross-country_skiing"
+        "Skiing",
+        "Skiing"
     ],
     [
         "22270",
@@ -968,38 +902,32 @@
     [
         "17206",
         0,
-        "Mavericks",
-        "Mavericks,_California"
-    ],
-    [
-        "17206",
-        0,
         "team",
         "Team"
     ],
     [
         "17206",
         2,
-        "games",
-        "Game"
+        "the games",
+        "Olympic_Games"
     ],
     [
         "17206",
         2,
-        "TV",
-        "Television"
+        "the game",
+        "The_Games_(UK_TV_series)"
     ],
     [
         "17206",
-        2,
-        "game",
-        "Game"
+        4,
+        "the idea",
+        "Qing_conquest_theory"
     ],
     [
         "17206",
         6,
         "teams",
-        "North_Carolina_Tar_Heels"
+        "Kansas_State_Wildcats_football"
     ],
     [
         "17206",
@@ -1010,38 +938,50 @@
     [
         "17206",
         8,
-        "championship",
-        "Championship"
+        "teams",
+        "Team"
+    ],
+    [
+        "17206",
+        8,
+        "team",
+        "Team"
+    ],
+    [
+        "17206",
+        8,
+        "the championship",
+        "Football_League_Championship"
+    ],
+    [
+        "17206",
+        8,
+        "last year",
+        "2002_NCAA_Men's_Division_I_Basketball_Tournament"
     ],
     [
         "16339",
         0,
-        "football",
-        "Association_football"
-    ],
-    [
-        "16339",
-        0,
-        "American pastime",
-        "American_Pastime_(film)"
-    ],
-    [
-        "16339",
-        0,
-        "sport",
-        "Sport"
+        "people",
+        "People_(magazine)"
     ],
     [
         "16339",
         2,
-        "New England Patriots",
+        "team",
+        "National_Football_League"
+    ],
+    [
+        "16339",
+        2,
+        "the New England Patriots",
         "New_England_Patriots"
     ],
     [
         "16339",
         2,
         "New England",
-        "New_England"
+        "New_England_Patriots"
     ],
     [
         "16339",
@@ -1058,8 +998,14 @@
     [
         "16339",
         4,
-        "quarterback",
+        "the quarterback",
         "Quarterback"
+    ],
+    [
+        "16339",
+        4,
+        "team",
+        "National_Football_League"
     ],
     [
         "16339",
@@ -1129,12 +1075,6 @@
     ],
     [
         "17006",
-        4,
-        "purple",
-        "Purple"
-    ],
-    [
-        "17006",
         6,
         "Japan",
         "Japan"
@@ -1142,26 +1082,14 @@
     [
         "17006",
         6,
-        "purple",
-        "Purple"
-    ],
-    [
-        "17006",
-        6,
-        "Emperor",
-        "Emperor"
+        "the Emperor",
+        "Emperor_of_Japan"
     ],
     [
         "17006",
         6,
         "aristocracy",
-        "Aristocracy_(class)"
-    ],
-    [
-        "1168",
-        0,
-        "tomatoes",
-        "Tomato"
+        "Aristocracy"
     ],
     [
         "1168",
@@ -1177,15 +1105,15 @@
     ],
     [
         "1168",
-        4,
-        "italian foods",
-        "Italian_cuisine"
+        8,
+        "pizza hut",
+        "Pizza_Hut"
     ],
     [
         "1168",
-        6,
-        "fettucini alfredo",
-        "Fettuccine_Alfredo"
+        8,
+        "pizza crust",
+        "Pizza"
     ],
     [
         "17067",
@@ -1196,14 +1124,14 @@
     [
         "17067",
         4,
-        "21 Jump Street",
+        "Jump Street",
         "21_Jump_Street"
     ],
     [
         "17067",
         4,
-        "sequel",
-        "Sequel"
+        "the sequel",
+        "Sex_and_the_City_2"
     ],
     [
         "17067",
@@ -1214,32 +1142,26 @@
     [
         "4371",
         0,
-        "yellow",
-        "Yellow"
-    ],
-    [
-        "4371",
-        0,
         "favorite color",
         "Color_preferences"
     ],
     [
         "4371",
         2,
-        "color",
-        "Color"
+        "a bit",
+        "Bit_(horse)"
     ],
     [
-        "12407",
-        1,
-        "live bait",
-        "Bait_(luring_substance)"
+        "4371",
+        2,
+        "the color",
+        "Orange_(colour)"
     ],
     [
-        "12407",
-        1,
-        "fish",
-        "Fish"
+        "4371",
+        8,
+        "information",
+        "Information"
     ],
     [
         "12407",
@@ -1268,6 +1190,12 @@
     [
         "8214",
         0,
+        "band",
+        "Musical_ensemble"
+    ],
+    [
+        "8214",
+        0,
         "Pearl Jam",
         "Pearl_Jam"
     ],
@@ -1282,12 +1210,6 @@
         2,
         "Dave Grohl",
         "Dave_Grohl"
-    ],
-    [
-        "8214",
-        4,
-        "Kurt",
-        "Kurt_Cobain"
     ],
     [
         "8214",
@@ -1308,16 +1230,10 @@
         "Pearl_Jam"
     ],
     [
-        "8214",
-        8,
-        "music",
-        "Music"
-    ],
-    [
         "7051",
-        2,
-        "cw",
-        "Continuous_wave"
+        0,
+        "this show",
+        "All_That"
     ],
     [
         "7051",
@@ -1328,26 +1244,32 @@
     [
         "7051",
         2,
-        "tbs",
+        "tbs.",
         "TBS_(U.S._TV_channel)"
     ],
     [
         "7051",
-        8,
+        6,
         "episode",
         "Episode"
     ],
     [
         "7051",
         8,
-        "love",
-        "Love"
+        "episode",
+        "Episodes_(TV_series)"
     ],
     [
         "7051",
         8,
-        "show",
-        "Television_show"
+        "the show",
+        "MTV"
+    ],
+    [
+        "7051",
+        8,
+        "favorite character",
+        "2014_MTV_Movie_Awards"
     ],
     [
         "7051",
@@ -1383,18 +1305,18 @@
         "1266",
         6,
         "turkey burger",
-        "Turkey_as_food"
+        "Hamburger"
     ],
     [
         "1266",
-        8,
-        "american",
-        "United_States"
+        6,
+        "burger",
+        "Hamburger"
     ],
     [
         "2040",
         0,
-        "Beagle dog",
+        "Beagle",
         "Beagle"
     ],
     [
@@ -1402,12 +1324,6 @@
         0,
         "Droopy",
         "Droopy"
-    ],
-    [
-        "2040",
-        2,
-        "foxhounds",
-        "Foxhound"
     ],
     [
         "2040",
@@ -1423,15 +1339,15 @@
     ],
     [
         "2040",
-        6,
-        "Beagle",
-        "Beagle"
+        4,
+        "best friend",
+        "Friendship"
     ],
     [
         "2040",
         6,
-        "walk",
-        "Base_on_balls"
+        "Beagle",
+        "Beagle"
     ],
     [
         "2040",
