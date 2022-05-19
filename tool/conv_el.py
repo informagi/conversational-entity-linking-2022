@@ -100,9 +100,11 @@ class ConvEL():
     def annotate(self, conv):
         """Get conversational entity linking annotations
         
+        Args:
+            conv: A list of dicts, each dict contains "speaker" and "utterance" keys.
+
         Returns:
-            utt: utterance
-            annotations: el_results + pe_results
+            A list of dicts, each dict contains conv's ones + "annotations" key.
         """
         self._error_check(conv)
         ret = []
