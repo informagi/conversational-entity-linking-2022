@@ -26,7 +26,7 @@ class ConvEL():
     class ConfigConvEL():
         def __init__(self):
             # MD
-            self.file_pretrained = '/scratch/hjoko/.jupyter/py38_hjoko/220111_EMNLP22/220306_MD/220306_BERT-NER/data/021_out/220330_222505_batch:8_bert-base-cased-conversational_on_ConEL/checkpoint-400'
+            self.file_pretrained = './bert_conv-td'
 
             # ED
             self.base_url = './rel_conv_project_folder'
