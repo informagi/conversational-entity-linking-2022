@@ -5,7 +5,7 @@ pre_tokenizer = Whitespace()
 try: 
     import spacy
     nlp = spacy.load("en_core_web_md")
-except: # From Google Colab
+except: # From Google Colab (see https://stackoverflow.com/a/59197634)
     import spacy.cli
     spacy.cli.download("en_core_web_md")
     import en_core_web_md

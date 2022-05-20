@@ -52,7 +52,7 @@ class ConvEL():
         el_results = self.rel_ed.ed(utt, spans) # ED
 
         self.conv_hist_for_pe[-1]['mentions'] = [r[2] for r in el_results]
-        self.ment2ent = {r[2]: r[3] for r in el_results} # If there is a mismatch of annotations for the same mentions, the last one (the most closest turn's one to the PEM) will be used.
+        self.ment2ent.update({r[2]: r[3] for r in el_results}) # If there is a mismatch of annotations for the same mentions, the last one (the most closest turn's one to the PEM) will be used.
 
         return [r[:4] for r in el_results] # [start_pos, length, mention, entity]
 
