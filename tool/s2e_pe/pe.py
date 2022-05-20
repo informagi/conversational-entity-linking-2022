@@ -2,8 +2,14 @@
 # PEMD
 from tokenizers.pre_tokenizers import Whitespace
 pre_tokenizer = Whitespace()
-import spacy
-nlp = spacy.load("en_core_web_md")
+try: 
+    import spacy
+    nlp = spacy.load("en_core_web_md")
+except: # From Google Colab
+    import spacy.cli
+    spacy.cli.download("en_core_web_md")
+    import en_core_web_md
+    nlp = en_core_web_md.load()
 from pe_data import PreProcess # to use get_span()
 
 # EEMD
