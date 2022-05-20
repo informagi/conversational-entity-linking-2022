@@ -313,7 +313,7 @@ class PostProcess():
         assert sorted(ment_tpl_list + [pem_tpl]) == sorted(list(span_hist)), f'mentions in score.json and pred.jsonl should be the same. {sorted(ment_tpl_list + [pem_tpl])} != {sorted(list(span_hist))}. doc_key: {doc_key}'
         return ment2score
 
-    def _convert_mention_from_token(self, mention, comb_text):
+    def _convert_to_mention_from_token(self, mention, comb_text):
         """
         Args:
             mention (list): [start, end] (this is token-level (NOT subtoken-level))
@@ -365,7 +365,7 @@ class PostProcess():
         pem = [m for turn in conv if turn['speaker']=='USER' for m in turn['pems']][0] # Each conv has only one pem for current implementation
         for ment_span_tokenlevel in pel_input['mentions']:
             score = mspan2score[tuple(ment_span_tokenlevel)]
-            ment = self._convert_mention_from_token(ment_span_tokenlevel, comb_text)
+            ment = self._convert_to_mention_from_token(ment_span_tokenlevel, comb_text)
             if score > threshold:
                 pred_peas.append({'personal_entity_mention': pem, 'mention': ment, 'score': score})
         return pred_peas

@@ -122,7 +122,7 @@ class EEMD():
         """
         def __init__(self):
             self.max_seq_length = 4096
-            self.model_name_or_path = './s2e_pe/model/s2e_ast_td'
+            self.model_name_or_path = './s2e_pe/model/s2e_ast_onto'
             self.max_total_seq_len = 4096
             # self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
             self.device = torch.device("cpu") # TMP
