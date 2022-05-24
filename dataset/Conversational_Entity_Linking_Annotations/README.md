@@ -7,7 +7,7 @@ Conversational Entity Linking Annotations
 **General statistics**
 |                                        |   Train |   Val |   Test |
 |:---------------------------------------|--------:|------:|-------:|
-| dialogue                               |     174 |    58 |     58 |
+| conversation                           |     174 |    58 |     58 |
 | user utterance                         |     800 |   267 |    260 |
 | user utterance with entity annotations |     685 |   229 |    210 |
 | entity annotation                      |    1428 |   523 |    452 |

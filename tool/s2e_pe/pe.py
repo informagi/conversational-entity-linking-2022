@@ -130,8 +130,8 @@ class EEMD():
             self.max_seq_length = 4096
             self.model_name_or_path = './s2e_pe/model/s2e_ast_onto'
             self.max_total_seq_len = 4096
-            # self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-            self.device = torch.device("cpu") # TMP
+            self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            # self.device = torch.device("cpu") # TMP
 
             # Config for NN model
             # Params are from: https://github.com/yuvalkirstain/s2e-coref/blob/main/cli.py

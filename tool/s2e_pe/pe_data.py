@@ -126,6 +126,9 @@ class PreProcess():
 
         ment2span = {ment:self.get_span(ment, text) for ment in ments} # mention spans
         pem2span = {pem:self.get_span(pem, text) for pem in pems} # pem spans
+        # NOTE: get_span() cannot consider the case of the same surface mention occurring multiple times in the same utterance, only one of which is detected by the MD module. 
+        # This is because the function detects ALL of the spans for the given surface mention.
+        # However, this case is extremely rare thus here the code ignores this case.
             
         for tkn_span in tokens_per_utt:
             tkn = tkn_span[0]
@@ -244,7 +247,7 @@ class PreProcess():
         """
         ret = []
         pem_spans = self._get_token_level_span(token_info, 'pem')
-        # TODO: This is not efficient and redundant.
+        # TODO: This is redundant and not efficient.
         # Instead `pem_spans` can be acquired by pos_to_token mapping, which maps char_position --> token_position
         # But I am too lazy to implement this code now. (Especially since it affects all other functions and data flows)
 

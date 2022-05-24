@@ -1,0 +1,7 @@
+torch
+transformers==4.18.0
+sklearn
+anyascii
+colorama
+nltk
+spacy==3.3.0
