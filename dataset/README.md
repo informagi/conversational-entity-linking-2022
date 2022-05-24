@@ -5,9 +5,10 @@ This directory contains conversational entity linking dataset.
 The dataset consist of two parts: (1) Conversational Entity Linking Annotations and (2) Personal Entity Mention Annotations.
 
 # Conversational Entity Linking Annotations
-(`./Conversational_Entity_Linking_Annotations`)
 
 Contains personal entity linking annotations, where named entities, concepts, and personal entities are annotated. This can be used for training and evaluating entity linking for conversations.
+
+Directory: `./Conversational_Entity_Linking_Annotations`
 
 ## Statistics
 
@@ -32,7 +33,7 @@ Contains personal entity linking annotations, where named entities, concepts, an
 (*1) This annotations also contain PEM without corresponding EEM case (i.e., annotated as `not in dialogue`, cannot find from options, etc.)
 
 ## Data Format
-This section explains ground truth files data format (`ConEL_CNE.json` and `ConEL_PE.json`)\
+This section explains ground truth files data format (e.g., `./Conversational_Entity_Linking_Annotations/ConEL22_EL_Test.json`, etc.)\
 Each element in a list has a dict structure as follows:
 
 ```py
@@ -76,10 +77,10 @@ Each element in a list has a dict structure as follows:
 
 # Personal Entity Mention Detection Annotations
 
-(`./Personal_Entity_Mention_Detection_Annotations`)
-
-  - Contains personal entity mention annotations. This can be used for training and evaluating personal entity mention detection 
+Contains personal entity mention annotations. This can be used for training and evaluating personal entity mention detection 
   (e.g., detecting "my city", etc.).
+
+Directory: `./Personal_Entity_Mention_Detection_Annotations`
 
 ## Statistics
 
@@ -92,3 +93,8 @@ Each element in a list has a dict structure as follows:
 | PEM                                        |     803 |   286 |    280 |
 
 *For some HITs, turkers agreed on "none" option, representing the given spans are not PEM (e.g., "Oh my god"), thus, this number is smaller than dialogues.
+
+## Data Format
+
+The same as the previous section, except this only contain `personal_entity_mention` annotations.
+

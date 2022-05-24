@@ -87,11 +87,11 @@ The usage of the tool is as follows:
 from conv_el import ConvEL
 cel = ConvEL()
 
-conv_example_1 = [
+conversation_example = [
     {"speaker": "USER", 
     "utterance": "I am allergic to tomatoes but we have a lot of famous Italian restaurants here in London.",}, 
 
-    # System turn should not have mentions or pems
+    # System turns are not annotated
     {"speaker": "SYSTEM", 
     "utterance": "Some people are allergic to histamine in tomatoes.",},
 
@@ -99,8 +99,8 @@ conv_example_1 = [
     "utterance": "Talking of food, can you recommend me a restaurant in my city for our anniversary?",},
 ]
 
-result_1 = cel.annotate(conv_example_1)
-print_results(result_1) # This function is defined in the notebook.
+annotation_result = cel.annotate(conversation_example)
+print_results(annotation_result) # This function is defined in the notebook.
 
 # Output:
 # 
