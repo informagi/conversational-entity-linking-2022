@@ -24,7 +24,7 @@ This repository is structured in the following way:
 
 ## Dataset
 
-Our CEL dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia (WoW)](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here XX.
+Our CEL dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia (WoW)](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
 
 **Table 1: Statistics of conversational entity linking dataset**
 
@@ -39,7 +39,7 @@ Additionally, we also provide personal entity linking mention detection dataset,
 
 ## Evaluation
 
-The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here XX.
+The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
 
 # CREL: EL Tool for Conversations
 
@@ -47,14 +47,15 @@ The tool to evaluate your entity linking method is provided in the `eval/` direc
 
 The easiest way to get started with this project is to use our [Google Colab](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing) code. By just running the notebook, you can try our entity linking approach.
 
-**Note**
+<details>
+<summary>Note</summary>
 
 - Use CPU to run this notebook.
     - The code also run on GPU, however, because of the storage limitation, you cannot try GPU on Google Colab if you use free version.
 - It takes approx 30 mins to download the models. Please wait for a while.
 
+</details>
+
 ## Start on your local machine
 
-You can also use our method locally. The documentation is available at `./tool/conversational_entity_linking.ipynb`
-
-
+You can also use our method locally. The documentation is available at [./tool/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/tool).

@@ -1,9 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing]
-
-<!-- <details>
-<summary>test</summary>
-test test
-</details> -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing)
 
 This README describes how to use our method on a local machine.
 We also have [Google Colab notebook](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing), you can try our method just running the notebook. See more description here XXX.
@@ -25,6 +20,10 @@ pip install -r requirements.txt
 ```
 
 ## Step 3: Run the code
+
+Open the notebook `conversational_entity_linking.ipynb` and run the code.
+
+The code is like:
 
 ```py
 from conv_el import ConvEL
@@ -58,5 +57,3 @@ print_results(result_1) # This function is defined in start.ipynb
 # 	 [54, 7, 'my city', 'London']
 ```
 
-
-Open the notebook `XXX.ipynb` and run the code.
