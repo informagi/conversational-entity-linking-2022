@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing)
 
 This README describes how to use our method on a local machine.
-We also have [Google Colab notebook](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing), you can try our method just running the notebook. See more description here XXX.
+We also have [Google Colab notebook](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing), where you can try our method simply running it.
 
 # Start with your local environment
 

@@ -10,9 +10,9 @@ TBD
 ```
 
 <!-- ![example](./example.png) -->
-<img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="48">
+<img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="480">
 
-**Figure 1: The example of entity linking in conversations. The green and gray speech bubbles represent user and system turns, respectively. In conversations, not only name entities, but concepts (e.g., “tomatoes”) and personal entities (e.g., “my neighborhood”) are important.**
+**Figure: The example of entity linking in conversations.**
 
 This repository is structured in the following way:
 
@@ -36,6 +36,38 @@ Our CEL dataset contains concepts, named entities (NEs), and personal entity ann
 | NE and concept annotations             |    1428 |   523 |    452 |
 | Personal entity annotations            |     268 |    89 |     73 |
 
+
+The format of the dataset is as follows:
+```py
+{
+    "dialogue_id": "9161",
+    "turns": [
+        {
+            "speaker": "USER", # or "SYSTEM"
+            "utterance": "Alpacas are definitely my favorite animal.  I have 10 on my Alpaca farm in Friday harbor island in Washington state.",
+            "turn_number": 0,
+            "el_annotations": [ # Ground truth annotations
+                {
+                    "mention": "Alpacas",
+                    "entity": "Alpaca",
+                    "span": [0, 7],
+                }, ...]
+            "personal_entity_annotations": [ # Personal entity annotations
+                {
+                    "personal_entity_mention": "my favorite animal",
+                    "explicit_entity_mention": "Alpacas",
+                    "entity": "Alpaca"
+                }
+            ],
+            "personal_entity_annotations_without_eems": [ # Personal entity annotations where EEM annotated as not found
+                {
+                    "personal_entity_mention": "my Alpaca farm"
+                }
+            ]
+        },
+```
+You can find more details about the format of the dataset in the [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset)
+
 Additionally, we also provide personal entity linking mention detection dataset, which contains 985 conversations with 1369 personal entity mention annotations.
 
 ## Evaluation
@@ -44,9 +76,46 @@ The tool to evaluate your entity linking method is provided in the `eval/` direc
 
 # CREL: EL Tool for Conversations
 
+
 ## Quickstart with Google Colab
 
 The easiest way to get started with this project is to use our [Google Colab](https://colab.research.google.com/drive/1TXoecXn9-JeS-hd4a0vtUQPN7xJGc2C0?usp=sharing) code. By just running the notebook, you can try our entity linking approach.
+
+The usage of the tool is as follows:
+
+```py
+from conv_el import ConvEL
+cel = ConvEL()
+
+conv_example_1 = [
+    {"speaker": "USER", 
+    "utterance": "I am allergic to tomatoes but we have a lot of famous Italian restaurants here in London.",}, 
+
+    # System turn should not have mentions or pems
+    {"speaker": "SYSTEM", 
+    "utterance": "Some people are allergic to histamine in tomatoes.",},
+
+    {"speaker": "USER", 
+    "utterance": "Talking of food, can you recommend me a restaurant in my city for our anniversary?",},
+]
+
+result_1 = cel.annotate(conv_example_1)
+print_results(result_1) # This function is defined in the notebook.
+
+# Output:
+# 
+# USER: I am allergic to tomatoes but we have a lot of famous Italian restaurants here in London.
+# 	 [17, 8, 'tomatoes', 'Tomato']
+# 	 [54, 19, 'Italian restaurants', 'Italian_cuisine']
+# 	 [82, 6, 'London', 'London']
+# SYST: Some people are allergic to histamine in tomatoes.
+# USER: Talking of food, can you recommend me a restaurant in my city for our anniversary?
+# 	 [11, 4, 'food', 'Food']
+# 	 [40, 10, 'restaurant', 'Restaurant']
+# 	 [54, 7, 'my city', 'London']
+```
+
+where, input conversation for our tool is a conversation which has two keys for each turn: `speaker` and `utterance`. The `speaker` is the speaker of the utterance (either `USER` or `SYSTEM`), and the `utterance` is the utterance itself.
 
 <details>
 <summary>Note</summary>
@@ -60,3 +129,4 @@ The easiest way to get started with this project is to use our [Google Colab](ht
 ## Start on your local machine
 
 You can also use our method locally. The documentation is available at [./tool/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/tool).
+
