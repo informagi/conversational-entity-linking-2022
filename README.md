@@ -9,7 +9,8 @@ This repository provides (1) conversational entity linking dataset (CEL) and (2)
 TBD
 ```
 
-![example](./example.png)
+<!-- ![example](./example.png) -->
+<img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="48">
 
 **Figure 1: The example of entity linking in conversations. The green and gray speech bubbles represent user and system turns, respectively. In conversations, not only name entities, but concepts (e.g., “tomatoes”) and personal entities (e.g., “my neighborhood”) are important.**
 
