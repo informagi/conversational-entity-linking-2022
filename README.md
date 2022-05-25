@@ -25,7 +25,7 @@ This repository is structured in the following way:
 
 ## Dataset
 
-Our CEL dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia (WoW)](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
+Our CEL dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
 
 **Table 1: Statistics of conversational entity linking dataset**
 
@@ -68,7 +68,7 @@ The format of the dataset is as follows:
 ```
 You can find more details about the format of the dataset in the [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset)
 
-Additionally, we also provide personal entity linking mention detection dataset, which contains 985 conversations with 1369 personal entity mention annotations.
+Additionally, we also provide [personal entity linking mention detection dataset](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset#personal-entity-mention-detection-annotations), which contains 985 conversations with 1369 personal entity mention annotations.
 
 ## Evaluation
 
@@ -115,7 +115,7 @@ print_results(annotation_result) # This function is defined in the notebook.
 # 	 [54, 7, 'my city', 'London']
 ```
 
-where, input conversation for our tool is a conversation which has two keys for each turn: `speaker` and `utterance`. The `speaker` is the speaker of the utterance (either `USER` or `SYSTEM`), and the `utterance` is the utterance itself.
+where, input for our tool is a conversation which has two keys for each turn: `speaker` and `utterance`. The `speaker` is the speaker of the utterance (either `USER` or `SYSTEM`), and the `utterance` is the utterance itself.
 
 <details>
 <summary>Note</summary>
