@@ -10,7 +10,7 @@ Personal Entity, Concept, and Named Entity Linking in Conversations, Hideaki Jok
 ```
 
 <!-- ![example](./example.png) -->
-<img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="480">
+<img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="600">
 
 **Figure: The example of entity linking in conversations.**
 
