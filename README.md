@@ -74,8 +74,11 @@ Additionally, we also provide [personal entity linking mention detection dataset
 
 The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
 
-# CREL: EL Tool for Conversations
+# CREL: Conversational Entity Linking Tool
 
+CREL is the conversational entity linking tool trained on ConEL-2 dataset.
+Unlike existing EL methods, CREL is developed to identify both named entities and concepts.
+It also utilizes coreference resolution techniques to identify personal entities and references to the explicit entity mentions in the conversations.
 
 ## Quickstart with Google Colab
 
