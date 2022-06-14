@@ -12,25 +12,14 @@ Directory: `./Conversational_Entity_Linking_Annotations`
 
 ## Statistics
 
-**General statistics**
+**Table 1: Statistics of conversational entity linking dataset**
+
 |                                        |   Train |   Val |   Test |
 |:---------------------------------------|--------:|------:|-------:|
-| conversation                           |     174 |    58 |     58 |
-| user utterance                         |     800 |   267 |    260 |
-| user utterance with entity annotations |     685 |   229 |    210 |
-| entity annotation                      |    1428 |   523 |    452 |
-| user utterance with PEM                |     190 |    64 |     59 |
-
-**PEM related statistics**
-|                                        |   Train |   Val |   Test |
-|:---------------------------------------|--------:|------:|-------:|
-| PEM w/ single-EEM                      |     186 |    63 |     57 |
-| PEM w/ multiple-EEM                    |       5 |     1 |      3 |
-| PEM w/o EEM(*1)                        |      77 |    25 |     13 |
-| PEM total                              |     268 |    89 |     73 |
-
-(PEM: Personal Entity Mention, EEM: Explicit Entity Mention)  
-(*1) This annotations also contain PEM without corresponding EEM case (i.e., annotated as `not in dialogue`, cannot find from options, etc.)
+| Conversations                          |     174 |    58 |     58 |
+| User utterance                         |     800 |   267 |    260 |
+| NE and concept annotations             |    1428 |   523 |    452 |
+| Personal entity annotations            |     268 |    89 |     73 |
 
 ## Data Format
 This section explains ground truth files data format (e.g., `./Conversational_Entity_Linking_Annotations/ConEL22_EL_Test.json`, etc.)\
@@ -84,15 +73,14 @@ Directory: `./Personal_Entity_Mention_Detection_Annotations`
 
 ## Statistics
 
-|                                            |   Train |   Val |   Test |
-|:-------------------------------------------|--------:|------:|-------:|
-| dialogues                                  |     591 |   197 |    197 |
-| dialogues with personal entity annotations*|     587 |   195 |    195 |
-| user utterances                            |    2689 |   905 |    907 |
-| user utterances with PEM                   |     740 |   256 |    260 |
-| PEM                                        |     803 |   286 |    280 |
+**Table 2: Statistics of personal entity mention detection dataset**
 
-*For some HITs, turkers agreed on "none" option, representing the given spans are not PEM (e.g., "Oh my god"), thus, this number is smaller than dialogues.
+|                                               |   Train |   Val |   Test |
+|:-------------------------------------------   |--------:|------:|-------:|
+| dialogues                                     |     591 |   197 |    197 |
+| User utterances                               |    2689 |   905 |    907 |
+| User utterances with personal entity mentions |     740 |   256 |    260 |
+| Personal entity mentions                      |     803 |   286 |    280 |
 
 ## Data Format
 
