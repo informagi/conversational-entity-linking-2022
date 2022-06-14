@@ -27,7 +27,7 @@ This repository is structured in the following way:
 
 Our ConEL-2 dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
 
-**Table 1: Statistics of conversational entity linking dataset**
+**Table: Statistics of conversational entity linking dataset**
 
 |                                        |   Train |   Val |   Test |
 |:---------------------------------------|--------:|------:|-------:|
