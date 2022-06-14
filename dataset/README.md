@@ -12,7 +12,7 @@ Directory: `./Conversational_Entity_Linking_Annotations`
 
 ## Statistics
 
-**Table 1: Statistics of conversational entity linking dataset**
+**Statistics of conversational entity linking dataset**
 
 |                                        |   Train |   Val |   Test |
 |:---------------------------------------|--------:|------:|-------:|
@@ -20,6 +20,21 @@ Directory: `./Conversational_Entity_Linking_Annotations`
 | User utterance                         |     800 |   267 |    260 |
 | NE and concept annotations             |    1428 |   523 |    452 |
 | Personal entity annotations            |     268 |    89 |     73 |
+
+<details>
+<summary>Details of personal entity mention related statistics</summary>
+
+**Personal entity mention related statistics**
+|                                        |   Train |   Val |   Test |
+|:---------------------------------------|--------:|------:|-------:|
+| PEM w/ single-EEM                      |     186 |    63 |     57 |
+| PEM w/ multiple-EEM                    |       5 |     1 |      3 |
+| PEM w/o EEM(*1)                        |      77 |    25 |     13 |
+| PEM total                              |     268 |    89 |     73 |
+
+(PEM: Personal Entity Mention, EEM: Explicit Entity Mention)  
+(*1) This annotations also contain PEM without corresponding EEM case (i.e., annotated as `not in dialogue`, cannot find from options, etc.)
+</details>
 
 ## Data Format
 This section explains ground truth files data format (e.g., `./Conversational_Entity_Linking_Annotations/ConEL22_EL_Test.json`, etc.)\
@@ -73,7 +88,7 @@ Directory: `./Personal_Entity_Mention_Detection_Annotations`
 
 ## Statistics
 
-**Table 2: Statistics of personal entity mention detection dataset**
+**Statistics of personal entity mention detection dataset**
 
 |                                               |   Train |   Val |   Test |
 |:-------------------------------------------   |--------:|------:|-------:|
