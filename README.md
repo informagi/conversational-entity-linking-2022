@@ -76,7 +76,7 @@ The tool to evaluate your entity linking method is provided in the `eval/` direc
 
 # CREL: Conversational Entity Linking Tool
 
-CREL is the conversational entity linking tool trained on ConEL-2 dataset.
+CREL is the conversational entity linking tool trained on the ConEL-2 dataset.
 Unlike existing EL methods, CREL is developed to identify both named entities and concepts.
 It also utilizes coreference resolution techniques to identify personal entities and references to the explicit entity mentions in the conversations.
 
