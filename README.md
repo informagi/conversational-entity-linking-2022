@@ -16,63 +16,10 @@ Personal Entity, Concept, and Named Entity Linking in Conversations, Hideaki Jok
 
 This repository is structured in the following way:
 
+- `tool/` : EL tool for conversation (CREL), with the example script.
 - `dataset/` : Conversational entity linking datasets (ConEL-2), with the documentation of the statistics and format.
 - `eval/` : Tool to calculate the performance of the entity linking method, with the run files of baseline and our method.
-- `tool/` : EL tool for conversation (CREL), with the example script.
 
-
-# ConEL-2: Conversational Entity Linking Dataset
-
-## Dataset
-
-Our ConEL-2 dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
-
-**Table: Statistics of conversational entity linking dataset**
-
-|                                        |   Train |   Val |   Test |
-|:---------------------------------------|--------:|------:|-------:|
-| Conversations                          |     174 |    58 |     58 |
-| User utterance                         |     800 |   267 |    260 |
-| NE and concept annotations             |    1428 |   523 |    452 |
-| Personal entity annotations            |     268 |    89 |     73 |
-
-
-The format of the dataset is as follows:
-```py
-{
-    "dialogue_id": "9161",
-    "turns": [
-        {
-            "speaker": "USER", # or "SYSTEM"
-            "utterance": "Alpacas are definitely my favorite animal.  I have 10 on my Alpaca farm in Friday harbor island in Washington state.",
-            "turn_number": 0,
-            "el_annotations": [ # Ground truth annotations
-                {
-                    "mention": "Alpacas",
-                    "entity": "Alpaca",
-                    "span": [0, 7],
-                }, ...]
-            "personal_entity_annotations": [ # Personal entity annotations
-                {
-                    "personal_entity_mention": "my favorite animal",
-                    "explicit_entity_mention": "Alpacas",
-                    "entity": "Alpaca"
-                }
-            ],
-            "personal_entity_annotations_without_eems": [ # Personal entity annotations where EEM annotated as not found
-                {
-                    "personal_entity_mention": "my Alpaca farm"
-                }
-            ]
-        },
-```
-You can find more details about the format of the dataset in the [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset)
-
-Additionally, we also provide [personal entity linking mention detection dataset](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset#personal-entity-mention-detection-annotations), which contains 985 conversations with 1369 personal entity mention annotations.
-
-## Evaluation Tool
-
-The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
 
 # CREL: Conversational Entity Linking Tool
 
@@ -133,3 +80,57 @@ where, input for our tool is a conversation which has two keys for each turn: `s
 
 You can also use our method locally. The documentation is available at [./tool/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/tool).
 
+
+
+# ConEL-2: Conversational Entity Linking Dataset
+
+## Dataset
+
+Our ConEL-2 dataset contains concepts, named entities (NEs), and personal entity annotations for conversations. This annotations is collected on [Wizard of Wikipedia](https://arxiv.org/abs/1811.01241) dataset. The format and detailed statistics of the dataset are described here [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset).
+
+**Table: Statistics of conversational entity linking dataset**
+
+|                                        |   Train |   Val |   Test |
+|:---------------------------------------|--------:|------:|-------:|
+| Conversations                          |     174 |    58 |     58 |
+| User utterance                         |     800 |   267 |    260 |
+| NE and concept annotations             |    1428 |   523 |    452 |
+| Personal entity annotations            |     268 |    89 |     73 |
+
+
+The format of the dataset is as follows:
+```py
+{
+    "dialogue_id": "9161",
+    "turns": [
+        {
+            "speaker": "USER", # or "SYSTEM"
+            "utterance": "Alpacas are definitely my favorite animal.  I have 10 on my Alpaca farm in Friday harbor island in Washington state.",
+            "turn_number": 0,
+            "el_annotations": [ # Ground truth annotations
+                {
+                    "mention": "Alpacas",
+                    "entity": "Alpaca",
+                    "span": [0, 7],
+                }, ...]
+            "personal_entity_annotations": [ # Personal entity annotations
+                {
+                    "personal_entity_mention": "my favorite animal",
+                    "explicit_entity_mention": "Alpacas",
+                    "entity": "Alpaca"
+                }
+            ],
+            "personal_entity_annotations_without_eems": [ # Personal entity annotations where EEM annotated as not found
+                {
+                    "personal_entity_mention": "my Alpaca farm"
+                }
+            ]
+        },
+```
+You can find more details about the format of the dataset in the [./dataset/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset)
+
+Additionally, we also provide [personal entity linking mention detection dataset](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset#personal-entity-mention-detection-annotations), which contains 985 conversations with 1369 personal entity mention annotations.
+
+## Evaluation Tool
+
+The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
