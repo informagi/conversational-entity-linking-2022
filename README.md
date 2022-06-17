@@ -5,9 +5,7 @@ Personal Entity, Concept, and Named Entity Linking in Conversations
 
 This repository provides (1) conversational entity linking dataset (ConEL-2) and (2) conversational entity linking tool (CREL), as resources for the following research:
 
-```
-Personal Entity, Concept, and Named Entity Linking in Conversations, Hideaki Joko and Faegheh Hasibi, Under Review
-```
+- *[Personal Entity, Concept, and Named Entity Linking in Conversations](https://arxiv.org/abs/2206.07836), Hideaki Joko and Faegheh Hasibi, Under Review*
 
 <!-- ![example](./example.png) -->
 <img src="https://github.com/informagi/conversational-entity-linking-2022/blob/main/example.png" width="600">
@@ -134,3 +132,8 @@ Additionally, we also provide [personal entity linking mention detection dataset
 ## Evaluation Tool
 
 The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
+
+
+# Contact
+
+If you have any questions, please contact Hideaki Joko at hideaki.joko@ru.nl
