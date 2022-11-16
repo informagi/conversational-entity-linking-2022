@@ -14,6 +14,12 @@ First, download the models below:
 
 
 ## Step 2: Install packages
+First, create a conda environment with python 3.8.13:
+```sh
+conda create --name crel python=3.8.13
+conda activate crel # Activate conda environment
+```
+
 Second, install the all necessary packages with:
 ```sh
 pip install -r requirements.txt
