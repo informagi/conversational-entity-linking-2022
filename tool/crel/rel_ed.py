@@ -1,5 +1,4 @@
 import sys
-sys.path.append('./REL')
 from REL.entity_disambiguation import EntityDisambiguation
 from REL.utils import process_results
 from REL.mention_detection import MentionDetection

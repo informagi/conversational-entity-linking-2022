@@ -6,8 +6,8 @@ from collections import namedtuple
 
 import torch
 
-from consts import SPEAKER_START, SPEAKER_END, NULL_ID_FOR_COREF
-from utils import flatten_list_of_lists
+from .consts import SPEAKER_START, SPEAKER_END, NULL_ID_FOR_COREF
+from .utils import flatten_list_of_lists
 from torch.utils.data import Dataset
 
 CorefExample = namedtuple("CorefExample", ["token_ids", "clusters"])

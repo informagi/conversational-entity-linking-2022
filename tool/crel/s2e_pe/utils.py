@@ -6,7 +6,7 @@ from time import time
 import torch
 import numpy as np
 
-from consts import NULL_ID_FOR_COREF
+from .consts import NULL_ID_FOR_COREF
 
 
 def flatten_list_of_lists(lst):

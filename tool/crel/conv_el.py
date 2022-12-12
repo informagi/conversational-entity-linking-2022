@@ -1,19 +1,22 @@
 import sys
-sys.path.append('s2e_pe')
-import pe_data
+from .s2e_pe import pe_data
 import importlib
-from bert_md import BERT_MD
-from rel_ed import REL_ED
-from pe import EEMD, PEMD
+from .bert_md import BERT_MD
+from .rel_ed import REL_ED
+from .s2e_pe.pe import EEMD, PEMD
 
 class ConvEL():
-    def __init__(self, threshold=0):
+    def __init__(self, threshold=0, config=None):
         self.threshold = threshold
 
-        conf = self.ConfigConvEL()
+        if not config:
+            config = {}
+
+        conf = self.ConfigConvEL(**config)
+        
         self.bert_md = BERT_MD(conf.file_pretrained)
         self.rel_ed = REL_ED(conf.base_url, conf.wiki_version)
-        self.eemd = EEMD()
+        self.eemd = EEMD(config=config)
         self.pemd = PEMD()
 
         self.preprocess = pe_data.PreProcess()
@@ -24,13 +27,18 @@ class ConvEL():
         self.ment2ent = {} # This will be used for PE Linking
 
     class ConfigConvEL():
-        def __init__(self):
+        def __init__(self, 
+                file_pretrained = './bert_conv-td', 
+                base_url = './rel_conv_project_folder',
+                wiki_version='wiki_2019',
+                **kwargs
+            ):
             # MD
-            self.file_pretrained = './bert_conv-td'
+            self.file_pretrained = file_pretrained
 
             # ED
-            self.base_url = './rel_conv_project_folder'
-            self.wiki_version = "wiki_2019"
+            self.base_url = base_url
+            self.wiki_version = wiki_version
 
             # NOTE: PE Config is in EEMD class
 

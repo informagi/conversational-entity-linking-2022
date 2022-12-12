@@ -5,7 +5,7 @@ try: # If you use `211018_s2e_coref`
     from transformers.modeling_bert import ACT2FN
 except: # If you use `jupyterlab-debugger`
     from transformers.models.bert.modeling_bert import ACT2FN
-from utils import extract_clusters, extract_mentions_to_predicted_clusters_from_clusters, mask_tensor #, ce_get_start_end_subtoken_num
+from .utils import extract_clusters, extract_mentions_to_predicted_clusters_from_clusters, mask_tensor #, ce_get_start_end_subtoken_num
 import os
 import json
 

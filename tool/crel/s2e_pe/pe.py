@@ -10,14 +10,14 @@ except: # From Google Colab (see https://stackoverflow.com/a/59197634)
     spacy.cli.download("en_core_web_md")
     import en_core_web_md
     nlp = en_core_web_md.load()
-from pe_data import PreProcess # to use get_span()
+from .pe_data import PreProcess # to use get_span()
 
 # EEMD
-import data
+from . import data
 import torch
 from transformers import AutoConfig, AutoTokenizer, LongformerConfig
-from modeling import S2E
-from coref_bucket_batch_sampler import BucketBatchSampler
+from .modeling import S2E
+from .coref_bucket_batch_sampler import BucketBatchSampler
 
 
 class PEMD():
@@ -119,16 +119,22 @@ class EEMD():
     """Find corresponding explicit entity mention using s2e-coref-based method
     """
 
-    def __init__(self):
-        self.conf = self.Config()
+    def __init__(self, config=None):
+        if not config:
+            config = {}
+
+        self.conf = self.Config(**config)
         self.model = self._read_model()
 
     class Config():
         """Inner class for config
         """
-        def __init__(self):
+        def __init__(self, 
+                s2e_pe_model='./s2e_pe/model/s2e_ast_onto',
+                **kwargs
+            ):
             self.max_seq_length = 4096
-            self.model_name_or_path = './s2e_pe/model/s2e_ast_onto'
+            self.model_name_or_path = s2e_pe_model
             self.max_total_seq_len = 4096
             self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
             # self.device = torch.device("cpu") # TMP
