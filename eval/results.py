@@ -5,20 +5,32 @@ import pandas as pd
 
 
 class Metrics():
-    def __init__(self, runs, ments_already_normalized=True):
+    def __init__(self, runs, ments_already_normalized=True, eval_concepts_and_named_entities=False):
         """
         Args:
             runs: a list of tuples (name_of_the_run, dataset_type, path_to_the_run_file)
             ments_already_normalized: if True, mentions are already normalized. If False, mentions are normalized here
+            eval_concepts_and_named_entities: if True, only concepts and named entities are evaluated. If False, all entities are evaluated including PEs
         """
         # A dictionary with dataset_type as keys and file_to_gold_data as values
-        gold_dc = {
-            'Test': './gold/Test/gold.json',
-            'Val': './gold/Val/gold.json',
-            'ConEL21-PE': './gold/ConEL21-PE/gold.json',
-        }
+        if eval_concepts_and_named_entities:
+            gold_dc = {
+                'Test': './gold/Test/gold_cne.json',
+                'Val': './gold/Val/gold_cne.json',
+            }
+        else:
+            gold_dc = {
+                'Test': './gold/Test/gold.json',
+                'Val': './gold/Val/gold.json',
+                'ConEL21-PE': './gold/ConEL21-PE/gold.json',
+            }
         self.sanity_test(runs, gold_dc)
         self.runs = runs
+        # check all runs path ([2]) and if it contains -WO- show a warning
+        for run in runs:
+            run_name, dataset_type, run_file = run
+            if '-WO-' in run_file and not eval_concepts_and_named_entities:
+                print(f'\033[93mWARNING: {run_file} contains WO, which means that it does not annotate PEs. Make sure flag (eval_concepts_and_named_entities) is correctly set for your evaluation purpose\033[0m')
         self.gold_dc = {k:json.load(open(v)) for k,v in gold_dc.items()}
         self.ments_already_normalized = ments_already_normalized # If you want to evaluate your own predictions, this should be set as False
 
