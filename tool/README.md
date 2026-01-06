@@ -8,7 +8,7 @@ We also have [Google Colab notebook](https://colab.research.google.com/drive/1TX
 ## Step 1: Download models
 First, download the models below:
 
-- **MD for concepts and NEs**: Download the model from [here](http://gem.cs.ru.nl/rel_conv_project_folder.tar.gz) and put the `bert_conv-td` dir in `./tool`
+- **MD for concepts and NEs**: Download the model from [here](https://huggingface.co/datasets/hj0015/CREL/tree/main) and put the `bert_conv-td` dir in `./tool`
 - **ED for concepts and NEs**: Download the model from [here](https://drive.google.com/file/d/1OoC2XZp4uBy0eB_EIuIhEHdcLEry2LtU/view?usp=sharing) and put the folder ``rel_conv_project_folder`` in the dir `./tool`
 - **Personal Entity Linking**: Download the model from [here](https://drive.google.com/file/d/1-jW8xkxh5GV-OuUBfMeT2Tk7tEzvH181/view?usp=sharing) and put the folder `s2e_ast_onto` in the dir `./tool/s2e_pe/model/`
 
