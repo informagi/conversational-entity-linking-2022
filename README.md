@@ -129,6 +129,8 @@ You can find more details about the format of the dataset in the [./dataset/READ
 
 Additionally, we also provide [personal entity linking mention detection dataset](https://github.com/informagi/conversational-entity-linking-2022/tree/main/dataset#personal-entity-mention-detection-annotations), which contains 985 conversations with 1369 personal entity mention annotations.
 
+**License**: The authors' ConEL-2 annotations are licensed under the [MIT License](LICENSE). The underlying dialogues originate from the [Wizard of Wikipedia dataset](https://arxiv.org/abs/1811.01241) and remain subject to the licensing terms of that source dataset.
+
 ## Evaluation Tool
 
 The tool to evaluate your entity linking method is provided in the `eval/` directory. The detail explanations are available here [./eval/README.md](https://github.com/informagi/conversational-entity-linking-2022/tree/main/eval).
